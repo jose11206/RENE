@@ -1,272 +1,365 @@
 #EXTM3U
+
 #*****************************CANALES DE EL SALVADOR
 #*****************************
-#EXTINF:-1, tvg-id="Canal 2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Undefined",Canal 2 (480p) [Not 24/7]
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1, tvg-id="Canal 3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
-https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="Undefined",Canal 4 HD (1080p)
-http://45.5.116.178:8000/play/a00g/index.m3u8
-#EXTINF:-1, tvg-id="Canal 6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="Undefined",Canal 6 (480p) [Not 24/7]
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072170
-#EXTINF:-1 tvg-id="Canal 10.sv" tvg-name="Canal 10 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_CNs4MYwRQ9BlWUoWPRtVfs1QBSB2GGIJ_BVp_uBMaHdQgB4R4alrRiJN4-pevSpefNVWw-M9XsrBo0OSAyklaE.png" group-title="⚪ - EL SALVADOR",Canal 10 (OP2)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072171
-#EXTINF:-1, tvg-id="Canal 11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="Undefined",Canal 11 TuTV (349p)
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2" tvg-logo="https://dnslivetv.online:443/images/2ahqQZqVYHfGG9NeADwxjOJQ-qSJLhAm282-h-sdCGpl9efcliFl9JAbi-P9tXSs4-_6dGlEJDs72dVb478uw-pRkVfkiY3DslBE34ALVlaGERJPzYdBFYAm4bE34fks.png" group-title="▶️ - EL SALVADOR",Canal 2
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070286
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="Undefined",Canal 3
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ_LLd8du79MtONoXktlbV_AsauxOf3VOx_LGGh8YW4pA9vbbsx0w37Nu825-Xg_zWPgQ36_DqJL-pAyWijjyJI4.png" group-title="▶️ - EL SALVADOR",Canal 4
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070288
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="https://dnslivetv.online:443/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1ErehKOB-qwZpAvBuV-RCXEA2xd0i1rMvzDbO2w_TC5iqcJGFA6krSCZ-iICLB4kh6jpN0KOh_zKFK9z15vxBsmIyPAA-loTILj8-uL3FAoRRx1Qx1KvVSYgULylaNM6GsO08_u3iGDFUX5-UjpW-T7.png" group-title="▶️ - EL SALVADOR",Canal 6
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070291
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDWs9HpDE9E3-Wr9UgPZu8a591PuwAksgA3KwN0-Va_r87SgJAgql8S4tdCqronurZ.png" group-title="▶️ - EL SALVADOR",Canal 10
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070292
+
+#EXTINF:-1 tvg-id="Canal11.sv" tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="Undefined",Canal 11
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
-#EXTINF:-1, tvg-id="Canal 12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Undefined",Canal 12 (220p)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1077776
-#EXTINF:-1, tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="Undefined",Megavisión Canal 19 (720p)
-https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1, tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="Undefined",Megavisión Canal 21 (720p)
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1, tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO CANAL 23
+
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKbkUXfMW8UzuJ-z7tMiCdGpOOH4_IGTIQyTfmCDBW_3bDh8q7dadFYVPpL80vW9ob4.png" group-title="▶️ - EL SALVADOR",Canal 12
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070293
+
+#EXTINF:-1 tvg-id="Cana23 TVO."sv" tvg-logo="data="group-title="Undefined",Canal 23
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+ (480p) [Not 24/7]
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1, tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57 (720p)
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 19" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48Rikso_NwMVnPU-WCvcK6ZYiR2BQal39Q0LBrqDKviU2s73yaV8uZCF346ibnnTsHrP.png" group-title="▶️ - EL SALVADOR",Canal 19
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070294
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjXIwhnVkcorz19kOkxyuIEeU-zBlZ6XbWVZwy4JHpU-ORi9Dskkwp4Dsw0kjpG5ni.png" group-title="▶️ - EL SALVADOR",Canal 21
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070287
+
+#EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="News",TVM El Salvador
+http://201.247.102.189/tmp_hls/stream/index.m3u8
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="Undefined",TCS+ (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="" tvg-name="Taber TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Tabertv.png/revision/latest?cb=20210621011556&path-prefix=es" group-title="▶️ - EL SALVADOR",Taber TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070295
+
+#EXTINF:-1 tvg-id="SV" tvg-name="Wow TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Logowomtext.png/revision/latest?cb=20210421203039&path-prefix=es" group-title="▶️ - EL SALVADOR",Wow TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070296
+
+#EXTINF:-1 tvg-id="CANAL 57."SV"grou -title="Undefined",Canal 57
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
-#EXTINF:-1, tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="Undefined",Órbita FM (720p)
-https://ssh101.bozztv.com/ssh101/OrbitaTV25/chunks.m3u8
-#*****************************CANALES DE INFANTILES
-#*****************************
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Campeones: Oliver y Benji" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7ix6nvFFS9KacgnoAC8jI2qWbv9OAFBVidpBzTEiUdvzVkB7ZGSbxHsFcUYQR5b6nRFqskEMWxAqIBR-2w5F79t8.png" group-title="24/7 Temporal",24/7 Campeones: Oliver y Benji
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078706
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los supersónicos" tvg-logo="https://media.licdn.com/dms/image/C4E12AQFzwvkxisxLHg/article-cover_image-shrink_720_1280/0/1643370174008?e=2147483647&v=beta&t=7xzj4HSwCAfJz-JTP9Y6RlpingXvaRZhey_v7YgCLHE" group-title="24/7 Temporal",24/7 Los supersónicos
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078688
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las chicas superpoderosas" tvg-logo="https://dnslivetv.online:443/images/Ergu-UWv5WsE2YaMeAvuGPJP8vtDHywxfhbwF_Z3aJzNMq5E0LGTbHFy5LDnx-VP0dl9JhWRsTkVyEf4031eCAoOp2BHDxyY6XTnkP6CnLw6qUskH4FKHE9voiKevHQu62zv6XBlosMN0I6qBLsqEw.jpg" group-title="24/7 Temporal",24/7 Las chicas superpoderosas
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078689
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama" tvg-logo="https://dnslivetv.online:443/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qumh5XLuC7YzNhxr_O9yQN_RL-lqIrRb1PjrI_14Xaxxrw9B_wccc54kInwHtXjwnhMq7CDUPD1IpWgEAsHiOkdUxgJhG-bHr-HVCdu7IM9cVdEaidI4xpHAyc4Fn-FvIlQe_zY4vvplCI1_CBUqnZAk.jpg" group-title="24/7 Temporal",24/7 Futurama
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078684
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note" tvg-logo="https://dnslivetv.online:443/images/q9NJDMIpd37R0qP5UpakLUF9rKzb_uAaYRDJox5_ILhfc_XVpspKXJBUeiEEZDn-fnxc4_ofMWilvC0zH-fdmqL2vRtZDsAj_SGKQufIvYU.jpeg" group-title="24/7 Temporal",24/7 Death Note
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078685
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1ecde018e863e2aaee31f00a23378c35.jpe" group-title="24/7 Temporal",24/7 One Piece
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078678
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson" tvg-logo="https://dnslivetv.online:443/images/sN8jPwbPgAQoccr0MVU27Adpr70ZtQlToTo23h5IUyOVeWxOKsHSI-3TtsUG9-CUd_p8f3lbtOLOd5cYeErjkikXEqzSUGQ4HLKcHxP2jTWHxyrjqSnYLggfqcJCmZ_Ps3rky7RbYxqMUpm0dcinXA.png" group-title="24/7 Temporal",24/7 Los Simpson
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078672
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons Casitas del Horror" tvg-logo="https://dnslivetv.online:443/images/lO4I6ENDRiY1iG64O8qqg5e4hSuSywZ6YJX98cxf43f3STDAeKUEC6FXmXpO3vyuL2fwPQd8zaAiceA91OtoB5on9EP3kk86v1BcsoE049DCGwowUcc0U9VqR1MwqJCDskoOnVWv_0ieWMGsnwxJwPSmcpHlXKjAXBcFAYVhBCo.png" group-title="24/7 Temporal",24/7 | Los Simpsons Casitas del Horror
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078392
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Heroes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVbj6mLA4GMLiv5L31AvK1uUmVVVrG9eRKQ&s" group-title="24/7 Temporal",24/7 Dragon Ball Heroes
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078703
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAGA (DRAGON BALL)" tvg-logo="https://dnslivetv.online:443/images/i9R6cn6GUV60ISnOqGZjZxyOoubiUdPFIvgi3x0l-yiHQf_o5WMTdEv8Mykgi3UFFJb1UIFuPyT1PZqj0t11KgTK0ist11GK0eDPOgIf5cuhkZW9sf6S5zGw4SMPEbWBodHZGqk_OimMj2S4OoJ2-Q.png" group-title="24/7 Temporal",24/7 SAGA (DRAGON BALL)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078673
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7eSQBj32967bsyErfBHQBEnAfaaVNYk24S7yy7yWMyMw.png" group-title="24/7 Temporal",24/7 Dragon Ball
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078675
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT" tvg-logo="https://dnslivetv.online:443/images/qsuE33ZlG4FNrdVzoff-opAxIdvz0getU22-b_sDHa3BLz58bk9ZgT1dXBAYqFxrmUOXaCgrXZdryHUjlipcJPtJWTnSY2W2l2TZGTdELF2NaEaIQVeL2A76PFlVNk-fzPaQcyKPLF6mAs7sV5TwvA.png" group-title="24/7 Temporal",24/7 Dragon Ball GT
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078674
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://dnslivetv.online:443/images/qsuE33ZlG4FNrdVzoff-opAxIdvz0getU22-b_sDHa1vhtEXvmpmrFk4rHEF09Kyqv4DSh_z8150TEmwhpKvA5MmYRq5Iu4Sdf-1VOJM-krc_JXU0Tb-uDqEkIhQaOle.png" group-title="24/7 Temporal",24/7 Dragon Ball Z
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078676
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z Saga Cell" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7ix6nvFFS9KacgnoAC8jI2qV4pLqzoTK4XxVnE9c0JePvRKh0MxFo3ZADtTYVwQm2dk2ZQrMWl7HLjQvvlA6QCq4.jpg" group-title="24/7 Temporal",24/7 | Dragon Ball Z Saga Cell
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078390
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i_iDpOrJF1ynxONj4byIaihJ24P7AUszBJfGWB8YkmW0qwFOncvmPctR06JjvVhw-PzTcD3tETqTNaLlz6pic9I.jpg" group-title="24/7 Temporal",24/7 Dragon Ball Super
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078656
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://i.imgur.com/iH8vP1X.png" group-title="24/7 Temporal",24/7 El Chavo del Ocho
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078659
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Chavo Del 8" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i03qvuDUR9bEO6oXzuBl768khwK-2LDIMU-O89wV6afOV7t5vOezef5NHCynqj2ZnbfAOwcZ9anGS6_iAWMHy0qyga0zMNCCvbUca5Hrcm5I.jpg" group-title="24/7 Temporal",24/7 I | El Chavo Del 8
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078489
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW Patrol: Patrulla de cachorros" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i-zGfRVx49lW628PWwT_vUUs4n6EItq3vcF7rrQ_i-VvYbVtt7O0_8XNmjbQImX4SiapwHQvW1q3yl9I3RbrmVU.png" group-title="24/7 Temporal",24/7 PAW Patrol: Patrulla de cachorros
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078651
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kimetsu No Yaiba" tvg-logo="https://dnslivetv.online:443/images/AHPGSCGGfAVhL3aT5dGzfi5c9YnqHLCQW7m8Fx50ehIvGGu7CU6OhYbNmhQgqtvwbo56AhFfImecmK43286udsBuY3rxGKAaqmO3C7kcUMs.jpg" group-title="24/7 Temporal",24/7 Kimetsu No Yaiba
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078637
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="https://dnslivetv.online:443/images/AHPGSCGGfAVhL3aT5dGzfi5c9YnqHLCQW7m8Fx50ehIkAKw9B-aCba32eJN7eMOMHT2xXHWgvamerzyEDg609smJ0j1QkTOsc_MmUqcChlE.jpg" group-title="24/7 Temporal",24/7 Naruto
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078639
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los Titanes" tvg-logo="https://dnslivetv.online:443/images/AHPGSCGGfAVhL3aT5dGzfi5c9YnqHLCQW7m8Fx50ehIkAKw9B-aCba32eJN7eMOMW1qSK_Y7Y90iK8i5MsreizVgumYM1hYIa_D_Zs-6Q_U.jpg" group-title="24/7 Temporal",24/7 Ataque a los Titanes
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078642
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½" tvg-logo="https://dnslivetv.online:443/images/AHPGSCGGfAVhL3aT5dGzfi5c9YnqHLCQW7m8Fx50ehKPSkm0mWARl1btJtg6O3njninfcHGZBG9v5F3uYkJ256S3T94NiEZBglHuV4bQDuk.jpg" group-title="24/7 Temporal",24/7 Ranma ½
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078643
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La granja de zenon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 La granja de zenon
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078644
-#EXTINF:-1 tvg-id="" tvg-name="Padre de Familia 24/7" tvg-logo="https://dnslivetv.online:443/images/2hEr7ryFPFMbDRKikRbjCQP6UvtfcLNLf4sAIxLFs_LOZhlINgC3lc5_v_Il6-Du_X35KsEIeLgY4opsOKLCvUUqqQzvTGQP25IxEgfKog1Mc-JO4vj8LWizbSFIjc7_sLHMelnRthYdjlQ2mi_ZfeKXQrnkURqJPD9ph3TaiiKm7plt1eklwpAlg8f8q3fxf097MNOo5xHCKuJnHGRCVQ.jpg" group-title="24/7 Temporal",Padre de Familia 24/7
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078595
-#EXTINF:-1 tvg-id="" tvg-name="La princesa Sofia 24/7" tvg-logo="https://dnslivetv.online:443/images/C6gPd8L7JlbWN-YpgYQuLCET9eUnyXRKNgkiZqtm06JRwU0yel2jm2lLy3G6LTQYWqZPd1NE6_aseRFQGVoL1g.png" group-title="24/7 Temporal",La princesa Sofia 24/7
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078594
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Spider Man" tvg-logo="https://dnslivetv.online:443/images/bQ_8GxThxQiDHuCnc2xPM_EvkjiQORqAHNAP0VRfGHkEo8fSDRNzkuEDuu07Jtk5zoxVcEOaSWbyMKVjw50LKQdWobZ0kwyZLKs32IHW2pM.jpg" group-title="24/7 Temporal",24/7 | Spider Man
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078584
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fullmetal Alchemist Brotherhood" tvg-logo="https://dnslivetv.online:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4QiQCCLIzob3iypHVNnBMkAUJ90rOZ4y4YF2AjFkyas.jpg" group-title="24/7 Temporal",24/7 Fullmetal Alchemist Brotherhood
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078540
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Punch Man" tvg-logo="https://dnslivetv.online:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmIMjHJ2MCDUAfjEI9WEaQSt8xW5rq7eYo4a1awY_Aj8.jpg" group-title="24/7 Temporal",24/7 One Punch Man
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078541
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ANIME" tvg-logo="https://dnslivetv.online:443/images/dsAt8cMDBjbP3mVNdeYR4cA4U3RlsRf_zTcQVUeRffho-0doikelY6lTk6CsOFBl.png" group-title="24/7 Temporal",24/7 ANIME
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078509
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | El Conde Pátula" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i8pUoceoL7ep4aTTOWX9Pu7z08evuu96JG0s9Q4caKxmR_dUeLSDoTVXSjFZASE8NHXhpEv-MqBsCaXzso4iNmg.jpg" group-title="24/7 Temporal",24/7 I | El Conde Pátula
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078490
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Halcones Galacticos" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7izCRJHTuqsViEh8pbzpKyCIndccEE4CV1Mcr9BHnV6zf4JdyGtU54JRhLRT-yeJaORy5_SUi6tdkrUHZuTIWvmY.jpg" group-title="24/7 Temporal",24/7 I | Halcones Galacticos
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078491
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Johnny Bravo" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i9jWrXCnR2LkUibNHW0eeDPm6m9uCSgi0XXsEriutXBSsIAmy5YdTsttZFZihHtjvM6UKMbwPuiUmDO24pwX74o.png" group-title="24/7 Temporal",24/7 I | Johnny Bravo
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078492
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Mickey Mouse" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i6QCOtTOLWpTEoUDqJj4DvpJAo_7td-RbNUD6PpL-z6Nmo8Yyn52MUIkIC3IR6g1jfHXPo9boGglcZgE9J31wqM.png" group-title="24/7 Temporal",24/7 La Casa de Mickey Mouse
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078493
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Mickey Mouse" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 La Casa de Mickey Mouse
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078503
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | La Pantera Rosa" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7ixE3uG_mvPQzSeFgjxanu2pdwVBmxEeiTqXGpD_f_NVK0cZmpEaGK-B1pHosSrFSwrkj12fvBit54Nd1DU7Iv1M.png" group-title="24/7 Temporal",24/7 I | La Pantera Rosa
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078494
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lego Friends: El nuevo capítulo" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7ix6nvFFS9KacgnoAC8jI2qWDQmprEAmRvnjITkhGhQ_Y4x2w_TKjMiKOFL__lYMrvhlsk1gmufajq4f24-J2NX4.png" group-title="24/7 Temporal",24/7 Lego Friends: El nuevo capítulo
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078495
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i1OQbfnX64zgeN1ST75MaNifzUDG5no-adM2EcgHWqxJ32GUtHYJhzaXqqrtydrtA0ZUYwyHYHwrOdW_JH6Mazw.png" group-title="24/7 Temporal",24/7 Los Picapiedra
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078496
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bebés llorones (Lágrimas mágicas)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 Bebés llorones (Lágrimas mágicas)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078497
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob el tren" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 Bob el tren
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078498
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob el tren" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 Bob el tren
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078504
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El payaso Plim Plim, un héroe del corazón" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 El payaso Plim Plim, un héroe del corazón
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078499
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 Peppa Pig
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078500
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pocoyó" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 Pocoyó
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078501
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zVNqPWhoggCcUwePbnePhPoZu3lQuHaBx6mao4JXXNROY0F6DX0z8Iwuesr51TSKe0Y&usqp=CAU" group-title="24/7 Temporal",24/7 Masha y el Oso
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078502
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Digimon Adventure" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7iyIM7xExNKfVpHoDvy6fvLKRUx0F0CGmEQrN84wkc46IRgzVNsBaG3zVOqqprEQyHbtb5PmerTK6azK2_ZMlUsY.png" group-title="24/7 Temporal",24/7 I | Digimon Adventure
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078487
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco" tvg-logo="https://dnslivetv.online:443/images/AHPGSCGGfAVhL3aT5dGzfi5c9YnqHLCQW7m8Fx50ehLTiqwLtw_5_XyN7JfOBbuX3NfS9ywuRseIXeqoVYcAV84xZCNZCk4JJPW8ICxzBLc.jpg" group-title="24/7 Temporal",24/7 Los Caballeros del Zodiaco
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078482
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ThunderCats" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7iyIM7xExNKfVpHoDvy6fvLJhnLxXWFBVSbVEy9sD9XWjYuGX2Otmz6a_hFU4n-P2dI_bLPsYt5uJH05JF9-kTQc.png" group-title="24/7 Temporal",24/7 ThunderCats
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078483
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El show del Pájaro Loco" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7iyIM7xExNKfVpHoDvy6fvLLiEveMNPORfudED-GdutJOc_n7KBJAiV_JIJ4QFKak-Xd8ijD4Pi-Jj-ZJD67S0YU.png" group-title="24/7 Temporal",24/7 El show del Pájaro Loco
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078484
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Tom y Jerry" tvg-logo="https://dnslivetv.online:443/images/VMuemXtAUScuuRdvtZ5dhmTIL1SkbmjXrllZxYrmHpi1E4OHGFeyxgbMeD12XC0cnqFN7slqfV2OVunUVV54KSyzKu0d-lz-BfToDd0LAPw.jpg" group-title="24/7 Temporal",24/7 I | Tom y Jerry
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078397
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ¡Oye, Arnold!" tvg-logo="https://dnslivetv.online:443/images/-7oKEATgI6CdWxwKW-B7i5fvZV7BF_mxf8juCuxrU8T3Qw3hdPgdreVzpSqh98joU8PhpjcUJuotf9g4UzLh9YXeQb-nnHdYd9ppzseken0651GjhNyGBX4i6FV6ZqITUXjpiaNjVPJJ8g_DBTXGeA.jpg" group-title="24/7 Temporal",24/7 ¡Oye, Arnold!
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078485
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Angry Birds: Locuras de verano" tvg-logo="https://dnslivetv.online:443/images/8et1OknZ0-BbopfiPIc8H1tSFuvKP4IGmCJI0RbQnxP1ElyP96d7mbY0svSFMaVDotShN5VXjSVPwDBIjVrCAQ.png" group-title="24/7 Temporal",24/7 Angry Birds: Locuras de verano
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078486
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I | Timon & Pumba" tvg-logo="https://dnslivetv.online:443/images/HcmAxsPcKmIh-qyQeuFxomxKN83TZgSJP8OifiaPn0SFoRDqDw594RED3bVzjwLRHw3SKRpYvjCBlnZdJSiMayB0XOOhjKaf4T98Ifc50r3kUbNL7kbW0XF15xYoLVFc.png" group-title="24/7 Temporal",24/7 I | Timon & Pumba
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078396
-#EXTINF:-1 tvg-id="" tvg-name="ARG | 24/7 CANAL DE NOTICIAS (720P)" tvg-logo="https://dnslivetv.online:443/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDgD5ZEe7orV-6-L_ieQt1N9KKCAe9jnkoWQdaDAGPsfOd1UO0prYtob8clzdl9zXA.png" group-title="24/7 Temporal",ARG | 24/7 CANAL DE NOTICIAS (720P)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078477
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chainsaw Man" tvg-logo="https://dnslivetv.online:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfyMLGe3nFQFOCxY3tDF7xo8W68QtDgnJSUpVy9gvnTY.jpg" group-title="24/7 Temporal",24/7 Chainsaw Man
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078542
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="https://dnslivetv.online:443/images/I1pSR7XU015S8m9TzZOhJoCWQWrjrh6kUliiT0FRc5ZzzX-c62inXyQWUkkKRFNIQAobWsjnPRtbXNdtwKxB1q6QZzM6mPTZM5SwnP3kfZg.png" group-title="24/7 Temporal",24/7 | Pokemon
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078575
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Samurai X" tvg-logo="https://dnslivetv.online:443/images/AHPGSCGGfAVhL3aT5dGzfi5c9YnqHLCQW7m8Fx50ehImmPexnGufeRgK3I5u4dyHCF6dJfPnj2jy2i_ui4z6FGJDqvuy6ccKrAm-_b_d_4M.jpg" group-title="24/7 Temporal",24/7 Samurai X
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078641
+
 #*****************************CANALES DE UNIVISION
 #*****************************
-#EXTINF:-1, tvg-id="" tvg-name="TX | SAN ANTONIO | UNIVISION KWEX" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="⚪ - UNIVISION HD",TX | SAN ANTONIO | UNIVISION KWEX
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585970
-#EXTINF:-1, tvg-id="" tvg-name="UNIVISION HOUSTON" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="⚪ - UNIVISION HD",UNIVISION HOUSTON
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585997
-#EXTINF:-1, tvg-id="" tvg-name="UNIVISION LOS ANGELES" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="⚪ - UNIVISION HD",UNIVISION LOS ANGELES
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585998
-#EXTINF:-1, tvg-id="UNILAT" tvg-name="UNIVISION WASHINGTON" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="⚪ - UNIVISION HD",UNIVISION WASHINGTON
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1038959
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision 45 Houston (KXLN)" tvg-logo="" group-title="▶️ -  UNIVISION HD",Univision 45 Houston (KXLN)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289819
+
+#EXTINF:-1 tvg-id="" tvg-name="Unvision 23 Dallas (KUVN)" tvg-logo="" group-title="▶️ -  UNIVISION HD",Unvision 23 Dallas (KUVN)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289824
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision 34 Los Angeles (KMEX)" tvg-logo="" group-title="▶️ -  UNIVISION HD",Univision 34 Los Angeles (KMEX)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289817
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision 41 New York (WXTV)" tvg-logo="" group-title="▶️ -  UNIVISION HD",Univision 41 New York (WXTV)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289818
+
 #*****************************CANALES DE TELEMUNDO
 #*****************************
-#EXTINF:-1, tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585890
-#EXTINF:-1, tvg-id="" tvg-name="TX | GALVESTON | TELEMUNDO HOUSTON KTMD" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TX | GALVESTON | TELEMUNDO HOUSTON KTMD
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585957
-#EXTINF:-1, tvg-id="TELEDR" tvg-name="TELEMUNDO INTERNACIONAL FHD" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO INTERNACIONAL FHD
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/600549
-#EXTINF:-1, tvg-id="TELEA" tvg-name="TX | GALVESTON | TELEMUNDO KTMD" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TX | GALVESTON | TELEMUNDO KTMD
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1039135
-#EXTINF:-1, tvg-id="" tvg-name="TELEMUNDO (WZDC-WASHINGTON" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjUJ0DG1wgc9slRxDVJpkiEibFoznNFetbtZ-9dEBw_q0oQWFnwWpAVpcGgi5sMCS1lpDVSmg7dUWg0xuHQy8HRvHLFmv3Ts1LYyHMLyhFUoo.png" group-title="⚪ - TELEMUNDO HD",TELEMUNDO (WZDC-WASHINGTON
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585899
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 47 Houston (KTMD)" tvg-logo="" group-title="▶️ -  TELEMUNDO HD",Telemundo 47 Houston (KTMD)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289796
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 60 San Antonio (KVDA)" tvg-logo="" group-title="▶️ -  TELEMUNDO HD",Telemundo 60 San Antonio (KVDA)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289807
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 39 Dallas (KXTX)" tvg-logo="" group-title="▶️ -  TELEMUNDO HD",Telemundo 39 Dallas (KXTX)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289788
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Telemundo_51_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20210104204411" group-title="▶️ -  TELEMUNDO HD",TELEMUNDO 51
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1103809
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 52 Los Angeles (KVEA)" tvg-logo="" group-title="▶️ -  TELEMUNDO HD",Telemundo 52 Los Angeles (KVEA)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289805
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 51 Miami (WSCV)" tvg-logo="" group-title="▶️ -  TELEMUNDO HD",Telemundo 51 Miami (WSCV)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289804
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 44 Washington (WZDC)" tvg-logo="" group-title="▶️ -  TELEMUNDO HD",Telemundo 44 Washington (WZDC)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289795
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 47 New York (WNJU)" tvg-logo="" group-title="▶️ -  TELEMUNDO HD",Telemundo 47 New York (WNJU)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289797
+
 #*****************************CANALES DE GALAVISION
 #*****************************
-#EXTINF:-1, tvg-id="GALAHD" tvg-name="GALAVISION HOUSTON (OP2)*" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="⚪ - GALAVISION HD",GALAVISION HOUSTON (OP2)*
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592637
-#EXTINF:-1, tvg-id="GALAPHD" tvg-name="GALAVISION SAN ANTONIO (OP2)*" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="⚪ - GALAVISION HD",GALAVISION SAN ANTONIO (OP2)*
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592664
-#EXTINF:-1, tvg-id="GALAPHD" tvg-name="GALAVISION SAN FRANCISCO" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="⚪ - GALAVISION HD",GALAVISION SAN FRANCISCO
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592668
-#EXTINF:-1, tvg-id="GALAP" tvg-name="GALAVISION NEW YORK" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="⚪ - GALAVISION HD",GALAVISION NEW YORK
+
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION EAST" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="▶️ -  GALAVISION HD",GALAVISION EAST
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592630
+
+#EXTINF:-1 tvg-id="GALAP" tvg-name="GALAVISION NEW YORK" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="▶️ -  GALAVISION HD",GALAVISION NEW YORK
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592650
+
+#EXTINF:-1 tvg-id="GALAPHD" tvg-name="GALAVISION SAN FRANCISCO" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="▶️ -  GALAVISION HD",GALAVISION SAN FRANCISCO
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592668
+
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LOS ANGELES" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tLukL7-LFrW_XCudP0zX0HdFF2ANufWj0ae-lJvPIZrE8DmwGLoryErpiyxP4zwKZS1JiEi5MRbYOH41FcxMdLeuvTFU8vZWcYz6iM_UhFRX.png" group-title="▶️ -  GALAVISION HD",GALAVISION LOS ANGELES
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/592640
+
 #*****************************CANALES DE UNIMAS
 #*****************************
-#EXTINF:-1, tvg-id="UNIMAS" tvg-name="TX | ALVIN | UNIMAS KFTH" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj_M93yIMrUNkwi6PYhEXbuCvazUgkbmisclLoGdC2AkF_zPBO0F4NS61AYTy6SdiR9pa-jlSu1hKTXF8S4eQqkA.png" group-title="⚪ - UNIMAS HD",TX | ALVIN | UNIMAS KFTH
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585948
-#EXTINF:-1, tvg-id="UNIMAS" tvg-name="UNIMAS (KFSF-SAN FRANCISCO-OAK-SAN JOSE" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj_M93yIMrUNkwi6PYhEXbuCvazUgkbmisclLoGdC2AkF_zPBO0F4NS61AYTy6SdiR9pa-jlSu1hKTXF8S4eQqkA.png" group-title="⚪ - UNIMAS HD",UNIMAS (KFSF-SAN FRANCISCO-OAK-SAN JOSE
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585976
-#EXTINF:-1, tvg-id="UNIMAS" tvg-name="Unimas" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj_M93yIMrUNkwi6PYhEXbuCvazUgkbmisclLoGdC2AkF_zPBO0F4NS61AYTy6SdiR9pa-jlSu1hKTXF8S4eQqkA.png" group-title="⚪ - UNIMAS HD",Unimas
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/586080
-#EXTINF:-1, tvg-id="" tvg-name="UNIMAS (KSTR-DALLAS-FT WORTH TX)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj_M93yIMrUNkwi6PYhEXbuCvazUgkbmisclLoGdC2AkF_zPBO0F4NS61AYTy6SdiR9pa-jlSu1hKTXF8S4eQqkA.png" group-title="⚪ - UNIMAS HD",UNIMAS (KSTR-DALLAS-FT WORTH TX)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/585982
+
+#EXTINF:-1 tvg-id="" tvg-name="Unimas 46 Los Angeles (KFTR)" tvg-logo="" group-title="▶️ -  UNIMAS HD",Unimas 46 Los Angeles (KFTR)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289810
+
+#EXTINF:-1 tvg-id="" tvg-name="Unimas 66 New York (WFUT)" tvg-logo="" group-title="▶️ -  UNIMAS HD",Unimas 66 New York (WFUT)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289811
+
+#EXTINF:-1 tvg-id="" tvg-name="Unimas East" tvg-logo="" group-title="▶️ -  UNIMAS HD",Unimas East
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289812
+
+#EXTINF:-1 tvg-id="" tvg-name="Unimas West" tvg-logo="" group-title="▶️ -  UNIMAS HD",Unimas West
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1289813
+
 #*****************************CANALES DE HBO
 #*****************************
-#EXTINF:-1, tvg-id="" tvg-name="HBO Signature (OP1)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjRf/mx_hbo_signature.png" group-title="⚪ - CINES Y SERIES",HBO Signature (OP1)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/594071
-#EXTINF:-1, tvg-id="" tvg-name="HBO FAMILY (OP1)" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tOHYUNytAuaRRuK4D690WQ--lEl7H8WIt9_x8JKNZL0pe924jkAPLI4sEEpoyNxG5wu815D7iwfGbtoTTnMpfPbvRIoVrnohdsGpQFaTZtrttetLxcSGdOOf61JeWxLpxm77GBQLWInizIBzwhToqa8.png" group-title="⚪ - USA CINE",HBO FAMILY (OP1)
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY (OP1)" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tOHYUNytAuaRRuK4D690WQ--lEl7H8WIt9_x8JKNZL0pe924jkAPLI4sEEpoyNxG5wu815D7iwfGbtoTTnMpfPbvRIoVrnohdsGpQFaTZtrttetLxcSGdOOf61JeWxLpxm77GBQLWInizIBzwhToqa8.png" group-title="▶️ - USA CINE",HBO FAMILY (OP1)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/600764
-#EXTINF:-1, tvg-id="" tvg-name="HBO 2 (OP1)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoVkwejnPNAgJHL37GRBkwGo3wJ7zJt9IAx7Rir4zLJiT.png" group-title="⚪ -  LATINOS PREMIUM",HBO 2 (OP1)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602541
-#EXTINF:-1, tvg-id="HBOXLAM" tvg-name="HBO XTREME (OP1)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLof5tTNz7i1j9EboGJprRUPQi6hVCN9k0X_lDv5hLgAYs.png" group-title="⚪ -  LATINOS PREMIUM",HBO XTREME (OP1)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602619
-#EXTINF:-1, tvg-id="POPAM" tvg-name="HBO POP (OP1)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoVkwejnPNAgJHL37GRBkwGp5wmDkvtN52vwEYjcDBgb0RzwO0Pgd4DEDLhtqJHQN1A.png" group-title="⚪ -  LATINOS PREMIUM",HBO POP (OP1)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602631
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO LATINO EAST (OP1)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_UlKuFQQ4bd_WYjI-WD-vraplJkKFM8d6LyWKLeti83c1nhtpcq7Ktcqs-a3kc5Z7d3diCR2-LSE2F409URqCoslVCT0sC-tEqeNJV3EJRQcullo9mXLzsdSMPXTMTKhNER7Pca8QMnh-vheLYNJaRvn0pSvV0eSOm_6iU07VkOlRHZX8ey1cDEaLP9Q/s320/hbolatino.png" group-title="▶️ - USA CINE",HBO LATINO EAST (OP1)
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/600797
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://static.wikia.nocookie.net/rarter/images/c/cd/Mundi.png/revision/latest/scale-to-width-down/219?cb=20231127190958" group-title="▶️ -  CINE",HBO Mundi
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070844
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/200?cb=20230215144835&path-prefix=es" group-title="▶️ -  CINE",HBO Pop
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070850
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/200?cb=20230215144835&path-prefix=es" group-title="▶️ -  CINE",HBO Pop
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070852
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="▶️ -  CINE",HBO Xtreme
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070856
+
 #*****************************CANALES DE STARZ
 #*****************************
-#EXTINF:-1, tvg-id="" tvg-name="STARZ IN BLACK EAST  (OP2)*" tvg-logo="https://dnslivetv.online:443/images/uhkxyjMu021BIXnaHOZmUMJCkbUC_YQ655ArOPZMXRVIDDbceaBn1sbENnl17xjITm06s_90777Aywz8wQG9xRZV1884pal58VqcOkoCfQo.png" group-title="⚪ - USA CINE",STARZ IN BLACK EAST  (OP2)*
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601469
-#EXTINF:-1, tvg-id="" tvg-name="STARZ IN BLACK WEST" tvg-logo="https://dnslivetv.online:443/images/uhkxyjMu021BIXnaHOZmUMJCkbUC_YQ655ArOPZMXRVIDDbceaBn1sbENnl17xjITm06s_90777Aywz8wQG9xRZV1884pal58VqcOkoCfQo.png" group-title="⚪ - USA CINE",STARZ IN BLACK WEST
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601494
-#EXTINF:-1, tvg-id="" tvg-name="STARZ CINEMA WEST" tvg-logo="https://dnslivetv.online:443/images/uhkxyjMu021BIXnaHOZmUMJCkbUC_YQ655ArOPZMXRVIDDbceaBn1sbENnl17xjITm06s_90777Aywz8wQG9xRZV1884pal58VqcOkoCfQo.png" group-title="⚪ - USA CINE",STARZ CINEMA WEST
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601506
-#EXTINF:-1, tvg-id="StarChannel.co" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="⚪ - CINE",Star Channel
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070871
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/upload/7c/5c/c681-f681-4257-b7fe-c7467c418566.png" group-title="▶️ - USA CINE",Starz Cinema ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204624
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/upload/71/e7/a932-5f91-49e6-8481-069aa2ec1ba3.png" group-title="▶️ - USA CINE",Starz Edge ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204626
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/upload/80/5c/9a83-9125-4c6b-937c-37273cc3996d.png" group-title="▶️ - USA CINE",Starz Encore ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204627
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/resize/{{size}}/68869197-d537-4025-9caa-7243d4a44d3c.jpg" group-title="▶️ - USA CINE",Starz Encore Westerns ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204628
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Family ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/resize/{{size}}/994608e1-51fa-4142-b241-33233795828c.jpg" group-title="▶️ - USA CINE",Starz Encore Family ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204629
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/resize/{{size}}/7336693e-ec03-48db-97ac-a6027088f7f3.jpg" group-title="▶️ - USA CINE",Starz Encore Action ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204630
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/resize/{{size}}/8a089914-a4bd-47ca-8418-5d9bee5885df.jpg" group-title="▶️ - USA CINE",Starz Encore Classic ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204631
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/resize/{{size}}/3cf9d300-2372-4a2d-a92c-58818fa33a1b.jpg" group-title="▶️ - USA CINE",Starz Encore Suspense ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204632
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz In Black ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/resize/{{size}}/fde38229-b84d-4ed2-9b5f-be61a0faa12a.jpg" group-title="▶️ - USA CINE",Starz In Black ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204634
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family ᵈᵗᵛ" tvg-logo="https://luxplayer.norago.tv/img/resize/{{size}}/549a872b-b154-4468-b2fe-1c36648e3d61.jpg" group-title="▶️ - USA CINE",Starz Kids & Family ᵈᵗᵛ
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1204635
+
 #*****************************CANALES DE SHOWTIME
 #*****************************
+
 #EXTINF:-1, tvg-id="SHOW" tvg-name="SHOWTIME" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj8tbCF8AiK3s_2UOshK231NPQ3YpHTF8KpzSaN0GvncQGVMsVogYcHWwv-B6XOJGc.png" group-title="⚪ - USA ENTERTAINMENT",SHOWTIME
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601245
+
 #EXTINF:-1, tvg-id="SHOCSE" tvg-name="SHOWTIME SHOWCASE WEST (OP1)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="⚪ - USA ENTERTAINMENT",SHOWTIME SHOWCASE WEST (OP1)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601273
+
 #EXTINF:-1, tvg-id="SHOW" tvg-name="SHOWTIME 2 (OP1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQywkcqn-x17_KGNUXC2I01VKv6x5XZs7BksdEeosHmwYb8gSlkbgbKDzvRlWo0f3hWBcE&usqp=CAU" group-title="⚪ - USA ENTERTAINMENT",SHOWTIME 2 (OP1)
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601235
+
 #*****************************CANALES DE MEXICO
 #*****************************
-#EXTINF:-1, tvg-id="CinemaPlatino.mx" tvg-name="CINEMA DINAMITA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPY8JzJMZ91yyl2ZG6y8j2UnxLYvO5ht-6O6pOtbPcsF5.png" group-title="⚪ - MEXICO",CINEMA DINAMITA
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/601904
-#EXTINF:-1, tvg-id="canal4.mx" tvg-name="CANAL 4 GUADALAJARA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPYN6xJWDTwmXwxFzVAbYcHLnTqvYsorCfR6sA6QG9HmUZLnISXYE6CvVgnqvN0yEdg.png" group-title="⚪ - MEXICO",CANAL 4 GUADALAJARA
+
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://dnslivetv.online:443/images/mg9e4VnU5MiobcDarwnBscs-O_XwOhZLCg3zgjudeMI.png" group-title="▶️ - MEXICO",BANDAMAX
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591566
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPdKK2FGKWaZio5hNsX0lzAGrSYyw3stEwVe2xlJ0X7-e.png" group-title="▶️ - MEXICO",AZTECA UNO
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591569
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPUfT1xy7OgSgJ5MjatBt3ReHFy8tR9Z03DTqv6XmCl9d.png" group-title="▶️ - MEXICO",CANAL 5
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591572
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPQlA9rUWIpV_gFFYZ2S3bKJVoxKL2SzI4jzmaHkc_UDT.png" group-title="▶️ - MEXICO",AZTECA 7
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591575
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ONCE" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPRrCrMEzxy7-ESnMlPkhR8r5Ngijr5rbJl8rMtygS39V.png" group-title="▶️ - MEXICO",CANAL ONCE
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591581
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CLIC" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPXEtx0DgYtrxErT-WFZ2d8EkiOgWbbsXJUYoQo73ud-1.png" group-title="▶️ - MEXICO",AZTECA CLIC
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591584
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZON" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPRxG0oK4O1yRTjmjzLhaq4LAhIbl-UKOoZ48rVBmeBOa.png" group-title="▶️ - MEXICO",AZTECA CORAZON
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591587
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="https://dnslivetv.online:443/images/oroGAtXinmJEnFqwiOc-0M8pxbPbmMOK90rnM9eZ9MlFtqdwlHt6baNnBwIA94zhgTkOgGMmqpuwnsL2-SJmJvKT57AIjTcFs1WYHI2f808Y72Y0hczrJTDfJyypAYzXRw0YK0TbMTG6LpdDUI3kzjLXPx6oTnuTQxUzrN5BflhysqLQRF9VL52VBDF2r_EB.png" group-title="▶️ - MEXICO",AZ MUNDO
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591590
+
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPdd8__gB0eOcZ2rnfTDsgQRWFXUD15AOFK3OKaADJzgF.png" group-title="▶️ - MEXICO",LAS ESTRELLAS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591593
+
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSd_tYWbGytThrbC2-jtw69Cy9n2zNcQ8MAm_rTSgWXt.png" group-title="▶️ - MEXICO",IMAGEN TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591596
+
+#EXTINF:-1 tvg-id="" tvg-name="TL NOVELAS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPaW-Fj2IdjQolJejP_HHAxuwhmLWdTWoKcc0tfUVPXcb.png" group-title="▶️ - MEXICO",TL NOVELAS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591599
+
+#EXTINF:-1 tvg-id="" tvg-name="TELERITMO" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/97/Teleritmo_2015.png/revision/latest?cb=20210627003145" group-title="▶️ - MEXICO",TELERITMO
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591602
+
+#EXTINF:-1 tvg-id="" tvg-name="VIDEO ROLA" tvg-logo="https://c23beafa7e.cbaul-cdnwnd.com/ab6ea526a12f0e77f0a6b8eea1eaa1e6/200000290-ca3decb36a/vdrla.png?ph=c23beafa7e" group-title="▶️ - MEXICO",VIDEO ROLA
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591605
+
+#EXTINF:-1 tvg-id="" tvg-name="MILENIO TV" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoaESrwrM6DL_cOjvrlGxQGQRRcNmbIKgnc7Pv4XYm0it.png" group-title="▶️ - MEXICO",MILENIO TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591608
+
+#EXTINF:-1 tvg-id="" tvg-name="FORO TV" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKbUm6uggVPvhYoHqqUNINyKctD5wrVb7ldRhkOb8hzxWA.png" group-title="▶️ - MEXICO",FORO TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591611
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 FHD" tvg-logo="https://dnslivetv.online:443/images/8qw8EtCAtEQJTyw6vjSzK6a2tvnAIiVbG7XUqeNOQG_2jMDxA6bo-gTKiQ_8FDP7.png" group-title="▶️ - MEXICO",CANAL 10 FHD
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591615
+
+#EXTINF:-1 tvg-id="" tvg-name="RCG 1 SALTILLO" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPXwF10IQEqUbBreDxEtrY8AP2WwmWxZxvpVOWlMS1nLy.png" group-title="▶️ - MEXICO",RCG 1 SALTILLO
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591617
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPcKZXOrU1vofA4skTUtXE7tN6VV7di_o7kUMUcJJu7m5.png" group-title="▶️ - MEXICO",TELEFORMULA
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591623
+
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoTqPC25x-Oji9EI8MgPU5CO51bzn51lVrIv9i0oIaWMr.png" group-title="▶️ - MEXICO",UNICABLE
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591632
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MUSICA PLUS" tvg-logo="https://dnslivetv.online:443/images/qw9Sd5JnDX2uSQDrGmMcurSfZy0rIXkiL3b2kjbRr68EcjvYeEH-5GRwtXkxehTc.png" group-title="▶️ - MEXICO",TELEHIT MUSICA PLUS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591635
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS  MONTEREY" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="▶️ - MEXICO",MULTIMEDIOS  MONTEREY
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591638
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS LAGUNA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="▶️ - MEXICO",MULTIMEDIOS LAGUNA
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591641
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS CDMX" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="▶️ - MEXICO",MULTIMEDIOS CDMX
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591644
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4 TV" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPbJAU1fDj0DmRiLlQ8nFFVKByFgvxBYnjHSkTSbC68Tx.png" group-title="▶️ - MEXICO",CANAL 4 TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591647
+
+#EXTINF:-1 tvg-id="" tvg-name="JUSTICIA TV" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPTIqOk1k9BtUYYVAynoGvd56SZgSIAkD0WnKKzj4t-Vg.png" group-title="▶️ - MEXICO",JUSTICIA TV
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591653
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA 8" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPdToY700azg_aEOwP_U3AX78b0wNkv0pJhrML0kq689c.png" group-title="▶️ - MEXICO",TELEVISA 8
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591668
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoUxv11oTRpGVg8SZrPwYuuci-98VCHg2cnmWBifFzC_Q.png" group-title="▶️ - MEXICO",ADN 40
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591671
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NOTICIAS" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ_RD3vzquIU647beKiiRuCRmyMZRT2RLSXBKoS90BOnG7JkT3Qsm-tm82Zgm1Dvl3QwxQgs2gNNJgESSj1qGHjhTbMc7cuaB0vwGR9pCBs2e.png" group-title="▶️ - MEXICO",UNIVISION NOTICIAS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591674
+
+#EXTINF:-1 tvg-id="" tvg-name="MEXIQUENCE" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoQcZlRcquwTpHK3OTm5Md-g8G4MNiuwkIkunuXnxZo-h.png" group-title="▶️ - MEXICO",MEXIQUENCE
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/591677
+
+#EXTINF:-1 tvg-id="XEWIZD2" tvg-name="LAS ESTRELLAS -2 HORAS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPdd8__gB0eOcZ2rnfTDsgQRWFXUD15AOFK3OKaADJzgF.png" group-title="▶️ - MEXICO",LAS ESTRELLAS -2 HORAS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602085
+
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS -1 HORA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPdd8__gB0eOcZ2rnfTDsgQRWFXUD15AOFK3OKaADJzgF.png" group-title="▶️ - MEXICO",LAS ESTRELLAS -1 HORA
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602088
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4 GUADALAJARA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPYN6xJWDTwmXwxFzVAbYcHLnTqvYsorCfR6sA6QG9HmUZLnISXYE6CvVgnqvN0yEdg.png" group-title="▶️ - MEXICO",CANAL 4 GUADALAJARA
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602096
-#EXTINF:-1, tvg-id="" tvg-name="N+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMPaAdkC_-5_xBWuyFxw5C1yrIyjhehH_g1dR82uYrYJk17yOknbkCRTWWxuoOdbNaKI&usqp=CAU" group-title="⚪ - MEXICO",N+
+
+#EXTINF:-1 tvg-id="" tvg-name="N+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMPaAdkC_-5_xBWuyFxw5C1yrIyjhehH_g1dR82uYrYJk17yOknbkCRTWWxuoOdbNaKI&usqp=CAU" group-title="▶️ - MEXICO",N+
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602109
-#EXTINF:-1, tvg-id="" tvg-name="CANAL JUDICIAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Canal_Judicial_2016.png/revision/latest?cb=20230325135551&path-prefix=es" group-title="⚪ - MEXICO",CANAL JUDICIAL
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL JUDICIAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Canal_Judicial_2016.png/revision/latest?cb=20230325135551&path-prefix=es" group-title="▶️ - MEXICO",CANAL JUDICIAL
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602114
-#EXTINF:-1, tvg-id="" tvg-name="TRC TV CAMPECHE" tvg-logo="https://dnslivetv.online:443/images/0JjsK5WXwCF8tWgCoDdGnXvVQp0epJvqQnKH9NUhig6QbhAnERXfQMQT7cy8Of0uz_FGiMxOBPrFUa0Msiyd8_vEahXji5ksANdvUpmDjt62EMueMUmLPwEVFcPA4PyC.png" group-title="⚪ - MEXICO",TRC TV CAMPECHE
+
+#EXTINF:-1 tvg-id="" tvg-name="SET PUEBLA" tvg-logo="https://dnslivetv.online:443/images/e94SMI6FdMV5n-nRq_yzTgBFNN0aRt_GeUn6snyl8QGHPtHhYFEtM4PqAjhexeBQeGYJTdxFoOLsIn-oGT0HFg.png" group-title="▶️ - MEXICO",SET PUEBLA
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602122
+
+#EXTINF:-1 tvg-id="" tvg-name="TRC TV CAMPECHE" tvg-logo="https://dnslivetv.online:443/images/0JjsK5WXwCF8tWgCoDdGnXvVQp0epJvqQnKH9NUhig6QbhAnERXfQMQT7cy8Of0uz_FGiMxOBPrFUa0Msiyd8_vEahXji5ksANdvUpmDjt62EMueMUmLPwEVFcPA4PyC.png" group-title="▶️ - MEXICO",TRC TV CAMPECHE
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602125
-#EXTINF:-1, tvg-id="" tvg-name="RTQ QUERETERO" tvg-logo="https://dnslivetv.online:443/images/0ogMYdapJhkyI-6xr3s8FRhRwnzbrf7InT_czv75jY4Fn5o40uqoTaTHTwr9A5wUjYnDNSSxW6OxYCtvurnq2Q.png" group-title="⚪ - MEXICO",RTQ QUERETERO
+
+#EXTINF:-1 tvg-id="" tvg-name="RTQ QUERETERO" tvg-logo="https://dnslivetv.online:443/images/0ogMYdapJhkyI-6xr3s8FRhRwnzbrf7InT_czv75jY4Fn5o40uqoTaTHTwr9A5wUjYnDNSSxW6OxYCtvurnq2Q.png" group-title="▶️ - MEXICO",RTQ QUERETERO
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602128
-#EXTINF:-1, tvg-id="" tvg-name="RCG 3 SALTILLO" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPXwF10IQEqUbBreDxEtrY8AP2WwmWxZxvpVOWlMS1nLy.png" group-title="⚪ - MEXICO",RCG 3 SALTILLO
+
+#EXTINF:-1 tvg-id="" tvg-name="RCG 3 SALTILLO" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPXwF10IQEqUbBreDxEtrY8AP2WwmWxZxvpVOWlMS1nLy.png" group-title="▶️ - MEXICO",RCG 3 SALTILLO
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602131
-#EXTINF:-1, tvg-id="" tvg-name="JALISCO TV" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtivJ1U2fP0sWjk355r-J0nwvyVw-8C5uswySo9jcCBLA.png" group-title="⚪ - MEXICO",JALISCO TV
+
+#EXTINF:-1 tvg-id="" tvg-name="JALISCO TV" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtivJ1U2fP0sWjk355r-J0nwvyVw-8C5uswySo9jcCBLA.png" group-title="▶️ - MEXICO",JALISCO TV
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602137
-#EXTINF:-1, tvg-id="" tvg-name="CORTV OAXACA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7j75Eubnc4Zx-bZv5EyYTTbDayOpIXOxfrSnWCYeSEqbv11AmSn5CZrXB6bk4IEEz14&usqp=CAU" group-title="⚪ - MEXICO",CORTV OAXACA
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602140
-#EXTINF:-1, tvg-id="" tvg-name="NU9VE (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0a0iU3c7UxgKW2FjrvLKq3866kAxjQrQ6gkNY4hKWcVs.png" group-title="⚪ - MEXICO",NU9VE (OP2)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602144
-#EXTINF:-1, tvg-id="APlus.mx" tvg-name="A+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUSpnCj57FGzVFASdulN3-CqroTcBhR2tRWmttwOj8wn3xgtvL_MXQypZkp4KCSDnkKc&usqp=CAU" group-title="⚪ - MEXICO",A+
+
+#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLUSpnCj57FGzVFASdulN3-CqroTcBhR2tRWmttwOj8wn3xgtvL_MXQypZkp4KCSDnkKc&usqp=CAU" group-title="▶️ - MEXICO",A+
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602148
-#EXTINF:-1, tvg-id="Canal22MetropolitanayNacional.mx" tvg-name="CANAL 22" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoYTZyiQLgD5T6EfTO3gx1xQFG9otMXWkp6TQg3lkMrRV.png" group-title="⚪ - MEXICO",CANAL 22
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 22" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoYTZyiQLgD5T6EfTO3gx1xQFG9otMXWkp6TQg3lkMrRV.png" group-title="▶️ - MEXICO",CANAL 22
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602151
-#EXTINF:-1, tvg-id="" tvg-name="MVS TV" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoaianGv6gduHsq3QHwp9s2vZf1Czfj5bIr0VApPoJqEj.png" group-title="⚪ - MEXICO",MVS TV
+
+#EXTINF:-1 tvg-id="" tvg-name="MVS TV" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoaianGv6gduHsq3QHwp9s2vZf1Czfj5bIr0VApPoJqEj.png" group-title="▶️ - MEXICO",MVS TV
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602154
-#EXTINF:-1, tvg-id="" tvg-name="TV MAS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFKFDWdkuPhTi7gBZtFgRUOAYRUEKvkkXKtqsZVvonDjs.png" group-title="⚪ - MEXICO",TV MAS
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO -2 HORAS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPdKK2FGKWaZio5hNsX0lzAGrSYyw3stEwVe2xlJ0X7-e.png" group-title="▶️ - MEXICO",AZTECA UNO -2 HORAS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602157
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 44 EL CANAL DE LAS NOTICIAS" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ-qb3MY5ivz0NOfdNN7MQ1WahAJJj7brE2aRXEe-yRmKtzyFPj8UaPPcvexp5vuB2DQv1LRthTL0hFfe4-QEqvQ.png" group-title="▶️ - MEXICO",CANAL 44 EL CANAL DE LAS NOTICIAS
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602166
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPbJAU1fDj0DmRiLlQ8nFFVKByFgvxBYnjHSkTSbC68Tx.png" group-title="▶️ - MEXICO",CANAL 4
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602169
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MAS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFKFDWdkuPhTi7gBZtFgRUOAYRUEKvkkXKtqsZVvonDjs.png" group-title="▶️ - MEXICO",TV MAS
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602172
-#EXTINF:-1, tvg-id="" tvg-name="TELEMAX" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0EcQgiKWI2hnusWKzNjfKWbdTQm_LSrJpI00qZ5YDNvyV6LTOC-S02Yka-BZ6tUbCH.png" group-title="⚪ - MEXICO",TELEMAX
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0EcQgiKWI2hnusWKzNjfKWbdTQm_LSrJpI00qZ5YDNvyV6LTOC-S02Yka-BZ6tUbCH.png" group-title="▶️ - MEXICO",TELEMAX
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602178
-#EXTINF:-1, tvg-id="" tvg-name="CANAL 26 AGUAS CALIENTES" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-.png?resize=324%2C160&ssl=1" group-title="⚪ - MEXICO",CANAL 26 AGUAS CALIENTES
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 AGUAS CALIENTES" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-.png?resize=324%2C160&ssl=1" group-title="▶️ - MEXICO",CANAL 26 AGUAS CALIENTES
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602181
-#EXTINF:-1, tvg-id="MultimediosPlus.mx" tvg-name="MULTIMEDIOS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="⚪ - MEXICO",MULTIMEDIOS
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="▶️ - MEXICO",MULTIMEDIOS
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602184
-#EXTINF:-1, tvg-id="AzMundo.mx" tvg-name="AZTECA MUNDO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest/scale-to-width-down/180?cb=20220217171211&path-prefix=es" group-title="⚪ - MEXICO",AZTECA MUNDO
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602191
-#EXTINF:-1, tvg-id="" tvg-name="CANAL 6 MULTIMEDIOS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="⚪ - MEXICO",CANAL 6 MULTIMEDIOS
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS GUADALAJARA" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="▶️ - MEXICO",MULTIMEDIOS GUADALAJARA
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602195
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 6 MULTIMEDIOS" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="▶️ - MEXICO",CANAL 6 MULTIMEDIOS
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602198
-#EXTINF:-1, tvg-id="MultimediosPlus.mx" tvg-name="MULTIMEDIOS BAJIO" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="⚪ - MEXICO",MULTIMEDIOS BAJIO
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS BAJIO" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPSiZdangqtqod0qdOoGuQCKgj7F9a6EntX0yZO1rR0L3.png" group-title="▶️ - MEXICO",MULTIMEDIOS BAJIO
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602201
-#EXTINF:-1, tvg-id="MultimediosPlus.mx" tvg-name="MULTIMEDIOS PLUS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb8wY87hxTt7spk_93jr6DSMof_uGU9sBmt9E4lWUauZ0.png" group-title="⚪ - MEXICO",MULTIMEDIOS PLUS
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS PLUS" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb8wY87hxTt7spk_93jr6DSMof_uGU9sBmt9E4lWUauZ0.png" group-title="▶️ - MEXICO",MULTIMEDIOS PLUS
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602204
-#EXTINF:-1, tvg-id="" tvg-name="AZTECA CORAZON (OP1)" tvg-logo="https://dnslivetv.online:443/images/-kRhDmGtaRfxVEGEnqonPRxG0oK4O1yRTjmjzLhaq4LAhIbl-UKOoZ48rVBmeBOa.png" group-title="⚪ -  LATINOS PREMIUM",AZTECA CORAZON (OP1)
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602560
+
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/HLN_2008.svg/revision/latest/scale-to-width-down/200?cb=20180312111333" group-title="▶️ - MEXICO",HLN
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/602207
+
 #*****************************CANALES DE DISTRO TV
 #*****************************
+
 #EXTINF:1, NEGOCIOS TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8?ads.dpname=distrotv&ads.rnd=fbvb&ads.env_i=5a9b8b16-60de-41f5-a29d-71937da9cb2d&ads.env_u=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1140&ads.height=641&ads.deviceId=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=45.167.3.81&ads.geo=SV&ads.lat=13.68060&ads.long=-89.18030&ads.dma=false&ads.geoType=2&ads.contentid=23130&ads.content_duration=18000&ads.episode_id=114364&ads.show_id=4557&ads.showCategories=IAB13&ads.episodeCategories=IAB13&ads.genre=Finance%2CFactual%2CTalk%20Show%2CNews%2CSpanish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=Negocios%20TV&ads.episodetitle=Negocios%20TV&ads.keywords=Trading%2Ccrypto%2Cinvestment%2Cespanol&ads.contenturl=https%3A%2F%2Fdistro.tv%2Flive%2Fnegocios-tv%2F&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241028
+
 #*****************************CANALES DE ARGENTINA
 #*****************************
+
 #EXTINF:-1, tvg-id="5tv.ar",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1, tvg-id="13MaxTelevision.ar",13Max Televisión (720p)
@@ -475,8 +568,10 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar",Canal 9 Resistencia (720p)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
 #*****************************CANALES
 #*****************************
+
 #EXTINF:-1, tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1, WPT 
@@ -531,8 +626,10 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1, TASTE MADE EN ESPAÑOL
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-65cd2cf397fb4731f54ecae7/variant.m3u8?url=e83e0bd1c802e1c1b906d13675c1cbde-058d7d6ae60608c632a472cb7e2655b7512c820375ae1b72a69d78d3e4a76129714772540e124c94db0b0c0959fc574ddcef6bce86bb68db54b2c7f3c3699dcc823116503ccbdbd51d500e3dadf1f0e8b2d1e8f68599c3b4f90de80f4d5c7564e6c72822582e42d4e8269316c743356cdeff00140fe5befadc5582b8d002ce0562cbb00b2f0fa68bb8efaddba376f380e674f7f6a0a8c4134987e73984431a65517e42df6e11ce1ac2100a36b88cc038c15ca9ada84c69ae090839d8d5d0f9625276f803334df5e4eb47e50e71e5644d6cd740fd74eb434bbfc113b988b8f7ce293004e86ea7ea672c610352b2ff3993e7ff9b9c62d5b6105b6169d6521cb17e3a6a87a422737fb0a2d678698386cb7e5ef43a8b68f6e95b001686260d479986bc379e888b0a500f578b39aa6710954e25581671372a7674f426248e9b8b6b64dd5928285f9c78334283acf7fd7a1847559b14a46d3d4976fc2819e3d5b84570c4613abee568ba9aa23d79f5493511b25fac0c0cbee23c109a15da9a07efee2529f3043b591acdd034a0c0e0ea92bcac86ec68d373e4a47eb606c76f9d0e364ed65625fa5686332dbfd6582224c8d29e4083b1c5d523771433457bd501c7c973976a8db227f9f357d637128b823e3d94f6b1c6435cfa9f30ba70baf750aee37f3ef91644ebb876d57746c036b282243f15beb274d6aca9c7228766b8cd4fd1b4a9bb53a03996484ea4ae605453ff2b9776e0414a8e7b685d15063d567587f0a12ca9b57056d833249bbbf0bb923227ce808297fac823ec63234d550b6dde82c098c5f43054544dadfb0f25333c1a466c68d6d1bbd4e2c65b82ebff9ee81400af4e4a61d72650e26d40eecce082933fac82a525ab91d8babdebc6d38f6c279100472f9f973d3ed5a8092a1e77338377b74e7fa8c09ce584fd97559d11f7a7dc1ee62151ca7d0e4eb35512d62ee1deaa6030ca7287ab921b075a77c48854ec764203533a2c9e1f99244cebbae1234847fe815f1d9eaf5f52a69c277515a344fc2a5b748cb5ab9ec008932ca95d7eadf75dd9c8e9a13f3d997128c0c7025288b735459613452d29bf13a32a6010e0a1e55e68f541c1957e28e2ef80a57d4515c4ccc14bd9a8b7da59750a5031431829159c6461a4130b4f1cd5c3a59712fad746566f47626a367d909c92adac701a3554286a8a5d60097e92370542692acd5ed0c3fffd27a7de68381f88bf34a9d7b53d1b07a30d12044e233f135283121fa61adc9b6ea6a400f4fc8c4a5ac7fc378806380a08045160bf55e03a9d0dd14e737ba7e499e16c80fe421e1883c8703606204077f4f20af5b886a44f06318219f2e3d54a37a2c00d1da9378db13801e896ab158fd78bb71a7f645cb5a9e8a8e557114f2ccecc8092bf44265851b7f300920928acfee3149ce62e463a6de1122fbc02cae9bc6a1da7b6851037d3a5e70355dba3b8ce16d7d39e472446a0e2e81615101ec5cbf81015abfa69fac9caf100bedc754e86c686579e61fdfe4a608427a7fe95cc3cdf983f01b87e86bdd5e6f9211cbfbb2636b06b3ce7657447c7078ab3adf55d7baeddbca0bfd8fda6420ad31afa945b419c8eb303cebaed7c6073976b2b83b6b42cadd54ed62b71361f9a6b7a4ac9fbd321ff68403bc9d48ea77ece4aea5815a6df613b6953edc223f4c996f015a9843d0c5c958cecb560ff10fb8a32bb960eb171a9d73b10674109fb91c9e60ad4d16a494d34c3ed420851ddfdc264c0a5ad4806349951b81219c13030ae44dfee0ce7305561f50db84918d8c6d1f836f243b86639852ec208e982e027f324c0161740893ebecae7146e8f714d34381fb719d357a8fb1eed28e73864622c83d9fdaf0ba63db23e9fd8e4225f90100e1fc21fb8105d8f1ddb5adf77b203fdf01c7d91701fd3cadcee27ad3db1fc2ee42e21bab98490ba0a177d6cbff46a6d5eceff8e0ba8e8e770dbdad660eb487fd538e1a636c049bde3da2eb85771049caa694873dd0d2fe90139bddc8eae6143ea17ca9ed66f59ca08cb017adaf8e66cddb111547f9aaaa99b4cc9a5877ae2a58e891ccca049514fe1153beac55a9457eb1440c183204ce83b5b4e30937e7dda1533bf794f34b2b75a6af7b8ea6207b02c6f9b0df23571123d2f2ca141820a1b84a7fd489672c2c2790c81a4a006c489379e7511a4b75c335c9bb1360902608da5a08161a5594011caf5ca38af181ce2853623066e85530af75b0eadc152c9777e09c2f6991eb64052ba3b6adb5c44c8652fef3d5b14a5b121d0b8cd0b93b1d759d0b53480da7ea264a94f66f3dee9939499a33c3ed4ad17a89758ce26ae9fb592ec35114f423aa0ffabc1927d8c3058ce7567daa66154248b128b9d80038e7d91cc6c97e75225df732be0e115dceec7c03e0bf92507b86a5f534d196b39be466549b199c4d76d2f1ef118370142a50538b2681b1dec3af80a217f6a36811d138dd588d417255fcbb575833ef16ee0ee9497b363dc32594d772590cb3e0a19254a5831bfa5e214195061f55b35a0ef1f3e10b4ef5b3e524b785a279eecfc89b7e9a78bcad649a52ed20a5b7398f7f6ee581f8d78d28f463825e26f9a86c51a3904cf0f40b9f345765995547055576673ca0f0527129404533f2dcf2367308991d7068e85a21aa59505089d89f785bd72de3b92169773634f43bd43ad830ef165ac3c2c400fa9c6d26217aa733640d63efd3c555bf3080fe759a482b5ec2f0010506613893b7842cb1206820de94b91d088e026fdc8bf6833c97df08a0d25ab21ade11f1b8bd9af20745d9a80bfa2ab582ee66a41e5723901d7cad4d82fd933a1ac1fa0a21e3cae05e36135aee52fcc5af7f291458db55023b1dc0728598881846a64d151f2d9a6542bcca81aea50f258253799fc45456c52390a72f9ba4730692ff65061b3fbd2bdcbad9fd3221ec028b1b994&x-plex-token=iQ_2-amtn7Axiy4Dsyqi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1366x641%2C1366x768&x-plex-device-vendor=&x-plex-version=4.139.0&x-plex-session-id=8b23e9a9-43d5-46ff-82d5-d831aeed66e8&x-plex-playback-session-id=58787569-dd3c-4ac1-8798-d48c30e63f27&x-plex-playback-id=&x-plex-provider-streaming-start=1728254988
+
 #*****************************CANALES DE FREE TV
 #*****************************
+
 #EXTINF:-1, FREE TV HITS
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-6018913ea15130002b284191/variant.m3u8?url=c0913a14e93d1795ff83b9814b835f93-9a657d9dcc757acafd22e84ca5d14353c11e0eac9fc96e5d91d71cb393aa12412edf5f36797657a394956e8ebbfaf10a396d2e7884ab6e83c99075b33c43183872a3d39a9b3d1a2c257c3767cd0fe49b3f09c58edb34f64f27bda1653bacb91aa782d840acec138f39f92a6e56f3e4fafd5d732f313b1316ffbebb52800113707e786b0efe06ed54b5d9730b38afc26e230d3a52dd2b07b5b8b083f6e941145b9f305f84be94ebaa8ce9fa97d49e163b0512f5510e69be2cdf55845e22596b5dace36d1164d85754b29059ec4622549df6d2c7c3849b61249bb1ddaeec70849a1bcd76027667733ad5c6be5f6108b1a8bfe8a82823fd927280d1915edbaeb79630cd094a77a00652e7fcce5b7a3d255fe5775e9fc48b90944e24f4a330dcbebcb3dc1cb8c177c5c3ae04f98c98ecdb1e4cb33a2ad5b4b3e3a9a89ece82f3e99f78ca2e3a295657f669485734ad538ecb00765d7157c68642a8be8f0794eb03e904b319c8ddda8bbb1aa101f28494362f4a83c890d3a43aa3e216338807dd698a008619e7336b683a98deac5d6dbe9e65812146abff9e22c987d1d45eb5c5b9996783426f40ed86b14a5bc6498f6eb0c8e380e2e895038966a48e4e6858510a5563e32632673c4bfc8a08a8cf59376b6d22903367cb165a9580233ced25d500e380a45d8cfd7ce7759ecfa9d843148519340828eaacdfbff9d70cfe43e3519bb7e2107b2b554dc57e5d74e802efcc0359d494fb7f8fe21a29cb036cc20a8a4297ad6d1fa6c9c339384b823e74c122c6eb9ee51878e7dd6cba94279ddcb08fe050b67ee99a4ef6cdeac0f0088fcf58480383d387705ec2066968fb93c137b1f6dbf98ca8ca7024e5931e8e94dd8aef0039a3ff4f79f1659c40dc42cc0bfaa0f3df929690bae74938f53536a342f80e851a4b8a510950955c64af1794d910581febdba352778d08a0e9a65c41d875a195ecdea14aac4a7558303d73731e0b737f7c2a5e5c4fd173ffb205f96b08169ce4c2c0308175e107b21fc9ace1b70958c2b743096ca9ca33e2dd4460a5fc54f083e24adf004ee9a61269dc7814f89d5c69e8b097e5202b9cf6691623d52fb1b9e28ebe2e150cffd713f7f1ecce5f191657f0e87f3012e70552a09116ae3464a773b1c80d999672ccb78f09fdf884add6c5b1a679b4a9f5d61a094b0d312f225edce85308ec1556fed9688a4ed076301d5335138abbb9904f59f748f039ad79123569807ca53f60f4cfe027b86b6c70f3693c88ad6cf811407b756e3d8da60c0199b6ddc273461db87255b1fcd017126a1abc6dcc1dc186b4afb9f37c184b3e7b0f4d2a9da398035a2f725b61ee68a95f2564ffff4163c51f46040c2711546d8688df61bacf3fbfc6befa1744a09bf53a981f4ce6194861166a3eb1fceaa8ef934e66ffc29aae56313ef39557dfd92883fe65c654f866166261b20ec9b9ed219942efc3e6e5a461bc2a23877b7c9f42b992b22fc31b70cf064655f3cdeaacbc47224b3ad58f983454eb270e150e8fc8ae2d54c02463fd57f5e4cb68d7a9f988cbce72e12e7417c1729cfca74e3a578c897b5a2c53b8bea05f4cbdda088cb29092a823743a9080a2bf7eec609763593253719df06a633c6a7349defb78bb6cfa00ce5fdf67e373433b94dc3eff99a2759fdb286a0e75fd8788544feea42abac5abbe4bcb5e963f9bc6abc11c5cf5b11e347979ef3231e5bdb2a57e9c1c2614c519e2415cb6e7deddfdd4ae056dc43b38554650f46d2304f68356e50dc0d773a0ebb4837974542d28eb7052ba3639cd4670962fbe42ba1e6944e3cefc3b28ebe16e53ff7802fe03399c5eefb31c6ce8516416786dc8d2183a99e8de61958231d942b823d114d230035fa0a7eb36d02aae82c42a7b18e16d9c1cef0946eb5e766b2afaca94ba5e492358041ef54039148cc7dfe25c674f250205b12ac9a06134062df8bcb55c24e68de053eb74f321583267edb415774be790d611ee0c7fe3cc181c7a408ce9ea8289c744c8199794a709d6c4bc17717afc84f5258f9dec743a0667cd7da43183a10c26a6510e9af26beac0581480e638daaf5c508c31a91de2f37415d5f1957c406a646c53aa9b5ebc92cbafb0c81cd3bea727f97f3cbec2354778f5c782f4248762fd74c4559a946d57833dc1f717e8e0e87db0545fd190105a1b93a68f160f4e76a1891554a9a46d927b1c03ec7be347b856697b90772b7a5e1aa0c7c08c08ee11690c64c15515714d8c35c477a860bf794b105fa1fa9450ec7216d7be3d210e0a30865f29e13a6699c83b51cb2e2f5ee9e229781762f6588cb506268885e3278b4e7a1d5019e6b1386a46fdc3f7618359c7c95335780ad5f7b51b14922977496d9caaa55ddf91d2237ace22f6887559af3958482db6b3acf4da62dc88b4158d551a10e4fc53088d697e4927b3b73edbf04fd70463ac44adbef0a9b882be85f1f143d2ca8bb53a6887df94780454aa5a92dbef5c89cd621fe9d843af&x-plex-token=iQ_2-amtn7Axiy4Dsyqi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1366x641%2C1366x768&x-plex-device-vendor=&x-plex-version=4.139.0&x-plex-session-id=8b23e9a9-43d5-46ff-82d5-d831aeed66e8&x-plex-playback-session-id=8e3c6b64-0380-4a3e-83f5-ad5c8860136d&x-plex-playback-id=&x-plex-provider-streaming-start=1728255184
 #EXTINF:-1, CINE EN ESPAÑOL 
@@ -563,8 +660,10 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-63226c03e67c
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-6329474265c8569187176338/variant.m3u8?url=8d5f6364cbfa32b77ac65f9197ccdfd2-bd11ef2d45ce03216e5850661efab307dcacb84fac20bd757195528feb321ef7cd470c0b713f30aedb158ee21be1e8fd08079c73c6204f016bdcf8b553cb38560a3b6cb315112cb4ed9fb6371bbddc9dc22448b621d184c6f17f04104bd27338224147f3b79bdff39c67e5fb7cbcaed9191db3164994eafb9d0eaef9e9e35a70f1691c5edb04ce77de8be570eede8cf3849b6e1f0148c184f87aaac1258126e5faa8fbe17123f8a9208beeeb9fcc0877f0d8ba4e6bc25695e3fc3fbb0504a3efb7fdceb42f7cd71c11e5690f5db8c8990ddee3e94d4244b46ad1c570cb7c30e2f66304126bdf93be785a8d466afead2c10cfc200aa756c43f8f6d628367a8ef580831b9bebd060c0881226fcdde67b78fbdd476366a72b34884e4a5f15acbaea36db58e73e4cb1f5954664b149aebd0b8976b6d074d35f8869c609e4328ba9988af35d59cd6317f1c36232513dd2ade555d8f3c0648ffc3eea647dcf5b56ab3366dc2aaf1f619f11990c41ace33ccc6dc7005305d48d4c8672436a474d81c70a8a2cb466d1728c8cbed200f768a2fe809c148f0fabb4105b3eca383fcd4d41b164df43ee93b9b06e9c04d2287444719736d350b4d19582235b61c513318bc617b2bd7437403fbf92b9bf38e3a0dc3a82e06a04a603a0922fde892a78188fb610b16c47946ba5435883a8f93497344de46d75593380530021bd1e0e15cc041c0a848b8f82c213b393e3d5718d3544efc5d713607faec18dd9f235cc96baef8d1e5434d7c6109574f7afaedc4a3fe89b039572e01c38da6b591cf95c8d35b852901c5d888a2cc15ad69c773a01566be10c73e657057a38015ec7aed9cdfe3e45f74daadeaf6a3078f697a27c01b8b3ca82551c0940efc496fb4a70d2fc369a83e82baa980aaea7d470f0ba9dc1a7530005ff881ff18d2a0f203ccbc91b0831a4b10cb2cb7278039a002bdc667fd29b0719de793b0f42fa933e8ea322ae54f0883da2c47c359efe33e820c8a51c698e490f9f98016361a50e1d594d20dae93c7e5c8ef97c02cde3c8b5d2210ad348395385c8830f0dc21c50bb67cb2705f2ccb882958305cc3591bb2bde09b885dbd3668706fb1c005c25151cc522e65bf604ac991aa21655e8f9d38d42ff717e560d7c970b8fcd16fa717c26eb8a5e7aa07d20b06b90cbf81310b60aed364645074b23f12073182f5aa784fb7b27764e69865880cce1e846bcbbd22218ce2f8ccec2a3df27b79ad7a9b50d4ea0dd952f19ea9e067f883fd50bd8d1566f1149ff0733ecf38a70cf652887625cffe4a3a8258799fe80377684410b708d69fd232b8ac68a43eadb67f993615360cdb36781db70d05c980f6a8ebebfb42c8f81feb98b774338d386d2de8a7b744669951fbc7030581b592c54defd18524ca4f4d79822bf4b265a5cb978c3318d49ef10b02d9c04b92e9e68d7e3e2a9512ce2474375c5d581cccea72a9afd6cb62b0e9d7b2246c2412e298f1c9f9ca51be6b6aca3d36312609deb0df2877962e5930f4678428c9ff196e5bf65d3f91457edd6dcd254889963e7b59c8f5891bb025088b9179effc6aa902229bb75ab00078e6d7a71ab77731dd74d4584569a18cdc58ec02a79d4d38eeb1316406e04884f23abf5d194bc012fda7bd68bf13dffe6463c587a9387943442f12239ef4da3a89daa1101804546ff7e6d8c976233f19fbfcd4d6ae69613d3912ff8ad0bba71a60332837ef72ed1e78e4c94486f0951466bcc1e88fac3351ee09e9d5f95541b2de60773a1c30cb78ae20fc5d4402327b8ab2d6516f66dd56eaefc6efdf29fdd9363daa9d7dd0c3261342dd242dd85cda14e84284bfe115661c618924cf18468a0554fb3a499bf8aa7d1bdede3d8a690871bcfdc4aa2c75bd5d36f9a0624d9e3883a58385fc5a72b99ca5ca9e452f20887ad0b2b870c5762cbdc52d0aef6730ab5f0b9e90bd7c64d131323c668939a31489c430e4c52e7a14ad6bfd1e8dc0628339a84c35b54938aebd887884218d915bec70b5c764568de253e6e118ba81f317740dc4daa3fe6f01c0c846c3dffe4633cb002c12b5a7becde1ad7a7d4f053a30192088ebd28c751358b6f48ea37831168072880703deff4009d&x-plex-token=iQ_2-amtn7Axiy4Dsyqi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1366x641%2C1366x768&x-plex-device-vendor=&x-plex-version=4.139.0&x-plex-session-id=8b23e9a9-43d5-46ff-82d5-d831aeed66e8&x-plex-playback-session-id=0223e536-2a56-41d5-872e-2f46b80cdaa2&x-plex-playback-id=&x-plex-provider-streaming-start=1728262377
 #EXTINF:-1, TRACE UK MUSIC
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-66be8cd4871131188099527e/variant.m3u8?url=a508fe7ae9e36956f33509e3e9d42276-907b7bec9003c460177377da7f73e3ea052515f9f1af5e09509dbe9423c4661a26e724c2b1ed4c4f05d4266171e903473d8b5627e751c5da75b8b793a88e43fce71c01ab1c047c60fd58944f04e5d326ac65112c48574adefa10f6341023d8aad623e8f11828e1efc7ba8f789d0ccb5f64fee238839df1f53970a52cbb9af2450f226a43d1de43dda899056889a101c9b2654aadd339894f15456221bd84587a87e6a9256794304b8154b3dd772f0785b14116fd8ccb5eba92d73c5460c2908a819a4ec7bdc37e683bc03944e3e183001dce1de49d2fdcff2cef4c2c3387e05e6e5865572624b7e03e959b8fd710eaff95d3d872fccce0ca5b500120ea7aac8be6c664e6161af669354b9d5d706ad091ec84278db2baa6a6c081b9de97064bf6b942d57bbab4951778eda4330dd5db29b23651d9c9d0ab20426624c52caf6c75d3f6c0958ebd27a667b3516ac9b6321679f0a002be3cc89631d4a0a0bb149cd5c1b155687df00d0cd382e9d5d98d4cca8013f935fe39f63b07c80ea152906be479e530e0fe58da79a0a58a35f038868102e3887ee880793fc913aaee920bcba066feac01f9cbabe12fa00a463700bfe1348aacce4d0ffae3142455acd9bd46167802cc243e5e0b6f849851ff63f67c1ece1670500bb56055edc4bd1448ef175ad9ec3c501f838a5d0b4e80e299c9ec01f06bcfc1dc3a6689485c342f2edd94dc8d27999a173bc9167becc1e9392361b21aec4b10097affe1ea73bf0f2348a1bccf48bfce5518cc5fa09b730602ea7dbf33b3b412abc6ed02fc70f5832414f2b71413d77dc919e3311404c7c96abb507ed89be024a9abd8edaccd8c2163a5c99aa614b2a24ebd54029a47eeb82ebc8f1bc1ade03dc947e3a6e004210c5748d04902e03e37740d52fe224f38ca2708492a3b0350e0ea02d705e30c55a7ad3083e6ba39a19c15466870087223b047d20626e5d939eeacee4f8a51e46de41a6f6fd0d6d4c5797df47f8dbc6a4d3405c0806161faae44bda40ecdbaa6ef220a08656a2479c43fba889522e8994f669d6c53f024cfae8fa539b959c043e6ef3d437b5490798cb0a183bdfb433e3bce29302509179c189908a7bd11cb37223e8060922acf3cf0d34a527ffe624650ca3dce279ebc19c155745adaae7dab03e285ee8d8493588e889507440a695fb1329938faa514a667b39bd4a8583358f79e807d356c33e9d3c6b9a5f647b9c9b9c91c70e838cbec3e32790cb11ae259f052aadb53757c2c65f10d80aa285e5e5b0f5c4adf19a4bc2e0ee438d003fb783fc090b6ac27b847f6c823313a92afa4dfb72bb14309040207b641c2ac5bcad799b327563df9ac92dd3f3bade4cbd05b74c3085983337ec3185abe653ca7ee1b2b4fb381992059cdc2f15f98a10a3605d2da7dd292463cee0604def70300398bb67e9eabf2ee1e4c0a444f8734754f557027359c32739d1f89dd0bd7bad656e54de054ecb4d323b97bec6f4fee00d9643be13eb9f7eb6590b988814a8317e41dcdb3f19bb3b81929b7db16844e3b5a4d848eb2383e43c17cc53c40b5af844517441e42017ff146982f91f63e86bbd0078c76eb36cfa33fbafe5f31c3e163fa568e465bfae17d4737c35af8b28629a39544d3e27cabb4269f65e4769fc6d48aac45e13fefe389fb7deebb77c914180d4ba9aa5d8a8202fe807eede7233fe76a28548db00a490cc31c10bfa4f9034bb97af8ed9709acfaf46f6a97c4f6d81db86289a685e63a55413393115409d3d8a4af75cb9087442d8dc59b378c351b6451efbf98f8f18427d74eaccfbb4556078821a149d842eb9ae9c3e8d497a6c74e30551ea5b1cd0a8afaa2a57cabec5bb10ae0d11c88287b7debbb34e97ee1bc8103b6599e011d50afb64fc486f61673767fac11eb131d5b6a0f2843fba56cab2c6ca0ca2b5e4930467510c5f9fe0200f44f800619410f98a0b7d78e3a47fa94de8488cf4fc83173138e8142a87e552ba54e96aaec9bc1131e595773d607506a4ecf575c25326e0fde6032d683a0e36207dc2c38b44891547fd3a7c809f0b354226f9a136de0b6abb26cd9f554358df61be0255bfad23e3f2f05af5bee99a3666566c161f38075fac737f281b7596915db1af8ab311bfe1af3aca799f80ba1e7e531c2a0d5f7df182cc7f2aa1305486676fce6459dd05f76a1834f4b28ee8c15cc31cc475abdd7beb866d68c75827738aeca8437423beda81ad5cd07c3528f83d9574f40cb375b0ba78244897a5f8410f81886dfa7abe197ea4d04b5147d84e2fe9986f54040f627398d5ef8d62084c6579e3e34a97d59650090c44c0e482dec571ca9213630835dcda069a64f4a055e29e9e850884fe06b7c4841d442bdb9603ccdbd4737111673ecf2e189dace04c8779fa5cd6ba7f13481734ffbcd22f2e785cfed503b68b6549b98ca709eb8b75fe04873e33f120b23989c252052ddb28cbc0b49b43a325b933694432fd1e32ed48b14068b0634561c1b76791bdf908379e858bd015ea9b4c0bbda0bfc5af1a4b76a2d3fee039d0ef1f335e7ea8d1cd8373d84ebd3ddf1e259a153a2031edd93e9fdcc0e6f517f1e3887e3a02889da6b0fddfdc0ef13b77c55efbe6a60676274060c965686d1819a5de8726fd43ad2507775ff81c52f82cad599a3601fb6eeeae6151e0ffd26d78798ba11506bda0a37fd42d1a28ba026e8d45a00bc67468b511ed75ccb920363495f1c008235545441d62f58ae9397142dc13afb3747e9461ff3c6f63892fc458fc5ac50bf49a1b7e833544f5fd767fbfc92174961f6f630154016202f94d97cdd06ace2f7a87ebb11bf60ba6f4c8bc64747a3f4bc84d24157062e4453c86880df5ed966ef2d01b47939c4fdf583e612c0f5752bcc65f6f577ce34d082d2835267b463314a83b13bdde809364d81f71f1666f1cae8731368b357b77e7e934d8cffdfbf3920dbd81a9fec8c7b3985535e51f1e418c6c1c75d2c68a21dce41fbda9ee1a0abda8466842a632e1d57c7e07610068a09708c2400f154905c48c0678bdc1376faf86c80d465bedecc5f1e4f6df7055e14cc909d51156bbcea19e6bb551cb3d08ae5301144e3c849be623046dcadc1fe5f9e7aea3111142fbdead6252670a2122bb867c508d81eed9dccb1977dc90686&x-plex-token=iQ_2-amtn7Axiy4Dsyqi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1366x641%2C1366x768&x-plex-device-vendor=&x-plex-version=4.139.0&x-plex-session-id=8b23e9a9-43d5-46ff-82d5-d831aeed66e8&x-plex-playback-session-id=a99891d1-2b80-45f5-83e6-7cf2d749766c&x-plex-playback-id=&x-plex-provider-streaming-start=1728262562
+
 #*****************************CANALES DE MUSICA
 #*****************************
+
 #EXTINF:-1, tvg-id="" tvg-name="Telenord" tvg-logo="https://dnslivetv.online:443/images/MPHhRrCtJmmi0X4jns1negwpjZEpSjlGhdQG8RXvlFSMdEdVY5FBrpWFdlcLSN15aeTIJAWaHcnGUcqoq6p9_6m3-3njfDdJWRjKA6ZxfBRXL5zD-8j82YDB3FN9Ckv1.png" group-title="⚪ - ARGENTINA",Telenord
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1072555
 #EXTINF:-1, tvg-id="" tvg-name="extra tv" tvg-logo="https://static.wikia.nocookie.net/logofan/images/d/d3/Extra_TV.png/revision/latest/scale-to-width-down/1200?cb=20230724012443&path-prefix=es" group-title="⚪ - COSTA RICA",extra tv
@@ -631,8 +730,10 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070426
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070927
 #EXTINF:-1, tvg-id="" tvg-name="MTV 00S HD" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoak5-epkrur9g4gi1BI3iBN5kQqGCJOJz2bKKkkK5W5RKedCMo-H3gbPK8rMaqvwEltalU211Cvv9Un7auTfB5M.png" group-title="⚪ - ENTRETENIMIENTO",MTV 00S HD
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1070950
+
 #*****************************CANALES RELIGIOSOS
 #*****************************
+
 #EXTINF:-1, tvg-country="SV" tvg-logo="" group-title="Undefined",Canal 65 (1080p) [Not 24/7]
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1, tvg-id="ElCaminoTV.sv" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="Religious",El Camino TV (480p)
