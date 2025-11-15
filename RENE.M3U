@@ -15,6 +15,9 @@ http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YTxb-rPBtb6rva8ztfL76c
 #EXTINF:-1,CANAL 6 OPC1
 http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VlUukmrBd-gin1X2MXYdRs
 
+#EXTINF:-1, tvg-id="Canal 8 agapetv.sv" tvg-logo="https://agapetv8.com/wp-content/uploads/2024/08/logo-header-9.png" group-title="General",Canal 8 agapetv (480p)
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w1930392003_b1428000_sleng.m3u8
+
 #EXTINF:-1,CANAL 10 OPC1
 http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RwnZalv9-41UpFb-vHVuqY
 
@@ -126,575 +129,843 @@ http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ah-l8jZmDmfo74oK0IQlj0
 #*****************************CANALES DE HONDURAS
 #*****************************
 
-#EXTINF:-1 xui-id="614169" tvg-id="" tvg-name="FFATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPy9aKYtpeH33FABAhr7Y_gspAStsIaqrJA&s" group-title="HONDURAS",FFATV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw909ymmCvTf5DlDySWhPPQ3Z1fzIa7aCDq8ZEwobGTZxe
+#EXTINF:-1,Canal 6
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3eg05ODGneuCps-vaDP7p7E
 
-#EXTINF:-1 xui-id="601320" tvg-id="" tvg-name="HN | QHUBO TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.W0Y3Mi4yOwlXWdQrObkt0QHaFj?rs=1&pid=ImgDetMain&cb=idpwebpc2" group-title="HONDURAS",HN | QHUBO TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw931QqStUgGOo7MQhyEGrTr9foQbdHC3AXwkUpV_3Rcpv
+#EXTINF:-1,Canal 5 HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZsALhw6akbf2M6f11vHMm4
 
-#EXTINF:-1 xui-id="571161" tvg-id="" tvg-name="VTV" tvg-logo="https://files.thehandbook.com/uploads/2021/03/aauvwnj0yq28hzietdkeddyfnwhqjskg4uqjvmjskvpqfqs800-c-k-c0x00ffffff-no-rj.jpg" group-title="HONDURAS",VTV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4hyFPM9jwJYy7MK5iT7IaF
+#EXTINF:-1,Teleceiba 7  HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RiNRNZ5Llwv_4kEwHn-W-g
 
-#EXTINF:-1 xui-id="571118" tvg-id="" tvg-name="MegaTV" tvg-logo="https://i.imgur.com/mRmiYNW.png" group-title="HONDURAS",MegaTV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb5FsY-KUWAQczmUym6Qm0DH
+#EXTINF:-1,Telecadena 7 y 4
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QMQNhZt-J2-Sz0qjCOxcoc
 
-#EXTINF:-1 xui-id="571156" tvg-id="" tvg-name="Une TV" tvg-logo="https://unetvhn.com/wp-content/uploads/2022/09/logo-1.png" group-title="HONDURAS",Une TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb66iTzVJ30IdLX5Wr-lkKWJ
+#EXTINF:-1,HN | Canal 15
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3R1sOBoN_PiHcxLVjeNfxvs
 
-#EXTINF:-1 xui-id="571133" tvg-id="" tvg-name="TELECEIBA HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1yNFrWWyvAeUOl_9Bxya47wKUaOsCb8yFLhDMe8kd56L.png" group-title="HONDURAS",TELECEIBA HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb70kzqWEbXT6MOe-KYBPOro
+#EXTINF:-1,HN | QHUBO TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XqU1-nzTWFQJfeZhMt4WKE
 
-#EXTINF:-1 xui-id="571128" tvg-id="" tvg-name="Telecadena 7 y 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Telecadena7y42018.png/revision/latest?cb=20190316212329" group-title="HONDURAS",Telecadena 7 y 4
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb6i6K2z294gbiHD94dt4pwm
+#EXTINF:-1,Mega TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WwrXBUNvQSKkzjWVGVqQWI
 
-#EXTINF:-1 xui-id="571125" tvg-id="" tvg-name="Si TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Logositv.jpg/revision/latest/scale-to-width-down/260?cb=20240418011650&path-prefix=es" group-title="HONDURAS",Si TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb54ROhviwwOPIYGgLo8JDFP
+#EXTINF:-1,UNE TV HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VaZQcSPbT-2ieFXmykNbZ4
 
-#EXTINF:-1 xui-id="571124" tvg-id="" tvg-name="RTV HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1460dRWKhfZ4Vj61f8IFLyc2vFj_JzeAQLLDkj4boBUy.png" group-title="HONDURAS",RTV HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb61iypRZVaOe4QQaJY-lGEz
+#EXTINF:-1,UNE TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3eAdiLzdZa6hynOnqWPXs48
 
-#EXTINF:-1 xui-id="571120" tvg-id="" tvg-name="Orica Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmstVNfTzs6q1QM_XIoZDVG4Z5K55SDDsd20ukA5Cupo7TOOjx3ORdkLpD6YLR3PJN5Q&usqp=CAU" group-title="HONDURAS",Orica Tv
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb5dBnMtz_zmUmEa4VyXF0Yp
+#EXTINF:-1,TSI HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3c9_9tpXbmw9NbN0LDsKOKc
 
-#EXTINF:-1 xui-id="571119" tvg-id="" tvg-name="Metro TV" tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1937951197119324160/img/4m_yaKtmBuoYk-IN.jpg" group-title="HONDURAS",Metro TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4iGj9WWXZJXbSg21ztWw4N
+#EXTINF:-1,TEN HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bm2Zar6tzzkxDO0QkWQCqQ
 
-#EXTINF:-1 xui-id="571114" tvg-id="" tvg-name="JBN HD" tvg-logo="https://image.roku.com/developer_channels/prod/28dddd305a845d9dd7379951f1ac568c1eea839fbd9274b54c76addaa6a2a69f.png" group-title="HONDURAS",JBN HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb5qDnc2_uvTSC6rWMB_RHVN
+#EXTINF:-1,Teleprogreso
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VSjE7E7NClZebZySzXV8xo
 
-#EXTINF:-1 xui-id="571112" tvg-id="" tvg-name="HONDURAS CANAL 6" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1465-IapaObg-PE8EEC4zbPx69lqevPnmhYapoAin-0M.png" group-title="HONDURAS",HONDURAS CANAL 6
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4crCO679OpzFBz-lzz6560
+#EXTINF:-1,TDTV PLUS
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3T9hLm_19agDRm0EAEUw3tg
 
-#EXTINF:-1 xui-id="571090" tvg-id="" tvg-name="Canal 5 HD" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c3/Canal_5_HN_logo.png/revision/latest/scale-to-width-down/1200?cb=20230724065140&path-prefix=es" group-title="HONDURAS",Canal 5 HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb56Y6eWs-OiRvZvfVbHkxKH
+#EXTINF:-1,RTV HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Rfzim054wIBTp-i2LE0Q0k
 
-#EXTINF:-1 xui-id="571099" tvg-id="" tvg-name="Copan TV" tvg-logo="https://image.roku.com/developer_channels/prod/3a91dd6aa8eaecdc39edaec5279b4c6eb0d3d01241e63b930253abddb0a2d4ee.png" group-title="HONDURAS",Copan TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4x2s0PPeiPbFnDOAVCIrBc
+#EXTINF:-1,Metro TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Vlc_c80uAMf0tiF1lv1epI
 
-#EXTINF:-1 xui-id="571097" tvg-id="" tvg-name="CHTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmZxcUS_IyU96YFBR1Koa4xv7AUmOB3Ox-A&s" group-title="HONDURAS",CHTV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb7WtUsSdtwm74XeDDKd280J
+#EXTINF:-1,MegaTV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YF61uoLoBrdjbZoXLfU2VM
 
-#EXTINF:-1 xui-id="571086" tvg-id="" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Canal11HN2010.png" group-title="HONDURAS",Canal 11
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb59oylvwEscgBK3oyEbzbPi
+#EXTINF:-1,Mega TV - Orlando
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S3MIQX8XNFHT4zdEB0_wgI
 
-#EXTINF:-1 xui-id="571088" tvg-id="" tvg-name="CANAL 23 HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1zccxN4Uh1p79Ie2my0rhtFUur6zMIYVZYX1ImDwWOG0.png" group-title="HONDURAS",CANAL 23 HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb70TlcVeEDfa013CvddEeET
+#EXTINF:-1,JBN HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3SSB0M8DjsiibUtWWn7F4mE
 
-#EXTINF:-1 xui-id="571082" tvg-id="" tvg-name="Azteca Honduras" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",Azteca Honduras
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb69q11n4EhaMp4Sxt8OOyC4
+#EXTINF:-1,HCH HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TXlRoDIe5RelSy4diVOvmM
 
-#EXTINF:-1 xui-id="571080" tvg-id="" tvg-name="45TV" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",45TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb7eNvrBZbzWkJfRm-OQ0MvV
+#EXTINF:-1,RSV Honduras
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Xlm7OH58CXQkU6NYqvSqPs
 
-#EXTINF:-1 xui-id="551636" tvg-id="" tvg-name="HN | Tigo Sports HD" tvg-logo="https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" group-title="HONDURAS",HN | Tigo Sports HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw92s-QrQKLDz_04yfUJeYo7vMUoyfsrOL5jmhMFfihpEs
+#EXTINF:-1,Orica Tv
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VTzTxx9zQeNhHzbR8WbLC4
 
-#EXTINF:-1 xui-id="551639" tvg-id="" tvg-name="TIGO SPORTS (HON) 4 HD" tvg-logo="https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" group-title="HONDURAS",TIGO SPORTS (HON) 4 HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw92s-QrQKLDz_04yfUJeYo7s3SmCHqTNlf2a_ZEf2eGgt
+#EXTINF:-1,Ebenezer
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ezTlRdY3Dg9mk4Y84qvoNE
 
-#EXTINF:-1 xui-id="623748" tvg-id="" tvg-name="CEIBAVISION CANAL 36" tvg-logo="https://ceibavision.com/images/logo-white.png" group-title="HONDURAS",CEIBAVISION CANAL 36
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95nkOIuLwPvCsCLmOjnWlFsWxhR_MURrHu8eXFs0hfSm
+#EXTINF:-1,Dios Te Ve
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3SdzGyMCExrpmWEJktoRSLY
 
-#EXTINF:-1 xui-id="623749" tvg-id="" tvg-name="SULA TV" tvg-logo="https://multicablemedios.hn/images/2025/01/30/sula.png" group-title="HONDURAS",SULA TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95nkOIuLwPvCsCLmOjnWlFsRtocZZwFYnps5sJZru1Bo
+#EXTINF:-1,Aliento Vision
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3eSTdL4i3Bs145ngzzQip2I
 
-#EXTINF:-1 xui-id="571152" tvg-id="" tvg-name="TVC Deportes" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",TVC Deportes
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb5GO5qk9_IHTj5cnHUUc3sA
+#EXTINF:-1,Copan TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S_x_3u119jFo13717ccZvc
 
-#EXTINF:-1 xui-id="571143" tvg-id="" tvg-name="TNH" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",TNH
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb6WcBcIOFAjihoiLp6Ggqwi
+#EXTINF:-1,CHTV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3faS3CEAPrUW1JxHkfqCX8c
 
-#EXTINF:-1 xui-id="571145" tvg-id="" tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/jN74q7H.png" group-title="HONDURAS",Todo Deportes
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4MFxqgaUe7VOkLRywUd9IO
+#EXTINF:-1,AZTECA HONDURAS HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bxXufQOOtzig4Ds9H9iIiQ
 
-#EXTINF:-1 xui-id="571137" tvg-id="" tvg-name="Televicentro" tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2021/05/FONDO-DEPORTES-TVC.jpg" group-title="HONDURAS",Televicentro
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb7YEeSLiWwpp5aepLf_hs0T
+#EXTINF:-1,CEIBAVISION CANAL 36
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fLlVxzzWyYk12iNFVSIwes
 
-#EXTINF:-1 xui-id="571140" tvg-id="" tvg-name="TIGO SPORTS 1 + (exclusivo)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE10-y3SX0oTWPPCVCDBpB9h_qHSK_U6OxqZ9CBO7kgQK6.png" group-title="HONDURAS",TIGO SPORTS 1 + (exclusivo)
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4yXB6u9ob18ro6PrDl5xKJ
+#EXTINF:-1,SULA TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bLscrtZZJENLykrUeVeVO4
 
-#EXTINF:-1 xui-id="571139" tvg-id="" tvg-name="TEN HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE17nXNqPgBrdYkWOXAHi-jZKISrUiwUUpWtZfWuV1B_tv.png" group-title="HONDURAS",TEN HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4pmv8Pw0OiGILU_s8eyXoy
+#EXTINF:-1,TVC Deportes
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YQ3GB8uB_pMeYRTtwgOrAw
 
-#EXTINF:-1 xui-id="571135" tvg-id="" tvg-name="Teleprogreso" tvg-logo="https://i.imgur.com/W6Y8DEj.png" group-title="HONDURAS",Teleprogreso
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4DHjaTPJD4GAahlDmlAmrI
+#EXTINF:-1,Todo Deportes
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Z5VNoh9j-GL29TlDOKFpCE
 
-#EXTINF:-1 xui-id="571127" tvg-id="" tvg-name="TDTV PLUS" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",TDTV PLUS
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4X0DfJ4SBbipKieFWMDBFC
+#EXTINF:-1,TIGO SPORTS
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3U81cSCImLPmUr-iPkik-00
 
-#EXTINF:-1 xui-id="571106" tvg-id="" tvg-name="Ebenezer" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1-j1M7BL1u8Si7fIng0fIUJ-5tIff-0ULwQFnBOhEMwJ.png" group-title="HONDURAS",Ebenezer
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb4w4nRv3JzJXjHKK_081Kaj
+#EXTINF:-1,HN | Tigo Sports HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RV1xFiXFNVuc3_AMUJ9X3U
 
-#EXTINF:-1 xui-id="571081" tvg-id="" tvg-name="Aliento Vision" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",Aliento Vision
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw95FqVuGtVyv8zKWK7V70Sb6kE-lgV4PqpDyTWwZRoVjX
+#EXTINF:-1,TIGO SPORTS (HON) 4 HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WpPWI-DGnEyE0zJlmW9XJk
+
+#EXTINF:-1,FFAA TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dSbRcDFb9zEZuTHXgpc578
 
 #*****************************CANALES DE GUATEMALA
 #*****************************
 
-#EXTINF:-1 xui-id="570615" tvg-id="" tvg-name="Azteca Guate" tvg-logo="https://i1.sndcdn.com/avatars-000132802990-nii7r5-t500x500.jpg" group-title="GUATEMALA",Azteca Guate
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDor8a_Oym54DYO86JMTEwc5
+#EXTINF:-1,UNICABLE OPC 1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S30XYCPZOK-7XaFKRTu6KY
 
-#EXTINF:-1 xui-id="570617" tvg-id="" tvg-name="CANAL 104 GUATEVISION ***" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Guatevision_2003-logo_simplified.png" group-title="GUATEMALA",CANAL 104 GUATEVISION ***
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDryFzWLCx45eTXSsb-ly4hP
+#EXTINF:-1,ANTIGUA TV
+https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w16031989_b3428000_sleng.m3u8
 
-#EXTINF:-1 xui-id="570618" tvg-id="" tvg-name="CANAL 11 OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="GUATEMALA",CANAL 11 OP1
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpxK5RTyUuzQJI5-89WWLHf
+#EXTINF:-1,Azteca Guate
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UWvvHZlFGfkvFHYhE39J0k
 
-#EXTINF:-1 xui-id="570624" tvg-id="" tvg-name="Canal 13 Cotovision Esquipulas" tvg-logo="https://i.ibb.co/KLJ7j35/13-1.png" group-title="GUATEMALA",Canal 13 Cotovision Esquipulas
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDrJXAUJ4p980XrySMFPq5S4
+#EXTINF:-1,CANAL 104 GUATEVISION ***
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VsLnEtOInxikoOvREEnI4w
 
-#EXTINF:-1 xui-id="570626" tvg-id="" tvg-name="Canal 27" tvg-logo="http://i.imgur.com/bjGWyTc.png" group-title="GUATEMALA",Canal 27
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDoNh8bMADN-uQBOjmISYCo_
+#EXTINF:-1,Canal 11 OP2
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZSwJFJQEnMtMgLSjprofjc
 
-#EXTINF:-1 xui-id="570629" tvg-id="" tvg-name="Canal T13" tvg-logo="https://i.ibb.co/1734Nq1/3-1.png" group-title="GUATEMALA",Canal T13
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpTQIgo_Qkz1uE-J9eqLqpz
+#EXTINF:-1,Canal 13 Cotovision Esquipulas
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fkFiBlFqRLfWOO-XvP6jlk
 
-#EXTINF:-1 xui-id="570628" tvg-id="" tvg-name="CANAL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Canal_3_Guatemala_2022.png/640px-Canal_3_Guatemala_2022.png" group-title="GUATEMALA",CANAL 3
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqII6lqjp0MA-mQCUGRYVpv
+#EXTINF:-1,CANAL 27 EL CANAL DE LA ESPERANZA
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TH9DOhyhtftRU6GL9Soz_8
 
-#EXTINF:-1 xui-id="570631" tvg-id="" tvg-name="CANAL 33 TELECOSTA" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="GUATEMALA",CANAL 33 TELECOSTA
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDreZ3jEfcI-N1mSwPFQIs7U
+#EXTINF:-1,Canal 3
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3V0GZZb6ss-QA8kUa2EX0zs
 
-#EXTINF:-1 xui-id="570632" tvg-id="" tvg-name="CANAL 34 TELEMAYA" tvg-logo="https://www.hispanatv.com/img/tv/Telemaya-34-GT.png" group-title="GUATEMALA",CANAL 34 TELEMAYA
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqXF7aAWARKloThzBPAMm5u
+#EXTINF:-1,CANAL 33 TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 xui-id="570633" tvg-id="" tvg-name="CANAL 38 MEGAVISION" tvg-logo="https://play-lh.googleusercontent.com/3DTf5HJTDnXSUnouMEQIyFR9P8IKS9A4L0ayIXhruxm_lPKa36BZ1XPvSolWzwryhrk" group-title="GUATEMALA",CANAL 38 MEGAVISION
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDrokkjYRSSt3nyYqjpvUlK6
+#EXTINF:-1,CANAL 34 TELEMAYA
+https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 
-#EXTINF:-1 xui-id="570634" tvg-id="" tvg-name="Canal 5 Solola" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",Canal 5 Solola
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDocZIqldxMwR7jnW67VNCvH
+#EXTINF:-1,CANAL 38 MEGAVISION
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ePU9Lu-s_C9GSzimbYIMT8
 
-#EXTINF:-1 xui-id="570635" tvg-id="" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal_7_Guatemala_2022.png" group-title="GUATEMALA",CANAL 7
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpB6n0yHks0PhUZJlS0hE0i
+#EXTINF:-1,Canal 5 Solola
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TRXpMaIS7H5OEAfVlA4CqI
 
-#EXTINF:-1 xui-id="570639" tvg-id="" tvg-name="CANAL 9 BARBE TV (SRO)" tvg-logo="https://static.wixstatic.com/media/7acae1_8dc4cf299fb34214ad9e49492ee42421~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-BarbeTv.png" group-title="GUATEMALA",CANAL 9 BARBE TV (SRO)
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDr8B9_1VnNxD3_3Bo2Nwqcx
+#EXTINF:-1,CANAL 7
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3aBVuDxKWw46QYesR7KRKmE
 
-#EXTINF:-1 xui-id="570641" tvg-id="" tvg-name="CANAL ANTIGUA HD" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",CANAL ANTIGUA HD
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpI_z-aJVEK2NWwJKHM3lO_
+#EXTINF:-1,CANAL 9 BARBE TV (SRO)
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Rt6jBRXd3EdmLyVWEh2RP8
 
-#EXTINF:-1 xui-id="570642" tvg-id="" tvg-name="CANAL RHEMA TV" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="GUATEMALA",CANAL RHEMA TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDp4sF4nRpvpxCVgGhYcWx1y
+#EXTINF:-1,CANAL RHEMA TV
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fbX_ehzYZ-Y_a8NZxrtLyg
 
-#EXTINF:-1 xui-id="570643" tvg-id="" tvg-name="CANAL TELE GLOBO (QUE)" tvg-logo="https://static.wixstatic.com/media/7acae1_357dc0305d3043ca8df9a8ea51bbf411~mv2.png" group-title="GUATEMALA",CANAL TELE GLOBO (QUE)
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDq0SelU2Hl9D5WRzEqN-ZvE
+#EXTINF:-1,CANAL TELE GLOBO (QUE)
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XJDUutZ0JaR6GZbYY5nzP4
 
-#EXTINF:-1 xui-id="570644" tvg-id="" tvg-name="CANAL TN23" tvg-logo="https://yt3.googleusercontent.com/K_dxUQOOqsdHOP2B3yQsdFDc44P5y1KUHdKc9eP2m9K4lG7EbEH_GLE5PNbnh_RWmpmWDdgt=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA",CANAL TN23
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDobN-dqknmP15NivFe4IuSN
+#EXTINF:-1,CANAL TN23
+https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 xui-id="570645" tvg-id="" tvg-name="CANAL TV FLORENCIA (SAC)" tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png" group-title="GUATEMALA",CANAL TV FLORENCIA (SAC)
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqHrxMImMkK1EveV9L8jIb8
+#EXTINF:-1,CANAL TV FLORENCIA (SAC)
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3SCapy5WWXYAkrgGrqGLffg
 
-#EXTINF:-1 xui-id="570648" tvg-id="" tvg-name="CANAL VISIÓN TV SD (SOL)" tvg-logo="https://static.wixstatic.com/media/7acae1_73e0b4e3e4984e1fa287381b8f2a810f~mv2.png" group-title="GUATEMALA",CANAL VISIÓN TV SD (SOL)
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDp9l2dUjBXLTUDriWbcxmlU
+#EXTINF:-1,CANAL TV Maya
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3e5LQj657IHUTHlQJONR6U0
 
-#EXTINF:-1 xui-id="570658" tvg-id="" tvg-name="Guatevision" tvg-logo="https://i.ibb.co/34HGNSk/g.png" group-title="GUATEMALA",Guatevision
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDoD-Q3KY2SUsJxaqEASA6GH
+#EXTINF:-1,CANAL VISIÓN TV SD (SOL)
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Y6GT4QO-b6W5u__hKU6eDM
 
-#EXTINF:-1 xui-id="570660" tvg-id="" tvg-name="Retro Tv" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",Retro Tv
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDoyfXJ37atZbnKAyMzOiSNx
+#EXTINF:-1,CLARO SPORTS 1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VdMgcAwi78SSLweadBnv0s
 
-#EXTINF:-1 xui-id="570666" tvg-id="" tvg-name="TN23" tvg-logo="https://i.ibb.co/5kk4Gk2/tn-23.png" group-title="GUATEMALA",TN23
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpVkbaFW_2lmj3AMh3gdJhs
+#EXTINF:-1,CLARO SPORTS 2
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3c-wIdLql_urSbQW_2j-bU8
 
-#EXTINF:-1 xui-id="570667" tvg-id="" tvg-name="VEA CANAL" tvg-logo="https://scontent.fgua3-6.fna.fbcdn.net/v/t39.30808-6/491993484_1087219106772594_8467146745593679746_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_6O3bVnqR-MQ7kNvwGEeU7I&_nc_oc=Adm6Vr-KvkkmxKjSXd5CzjcXr1a3ZjlWA18ah368hY1oaW_DOqIj9Kf9_QbIdXWBBFNh8LMZ3FDbAkqApbvzXkRN&_nc_zt=23&_nc_ht=scontent.fgua3-6.fna&_nc_gid=URp_J-RZ1IOoeFIJLaHYAQ&oh=00_AfH6fVV2W6MIKP8DssfBQLkPLNonhgXD-MggDAdjPtgMnQ&oe=681D7FF1" group-title="GUATEMALA",VEA CANAL
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDquxxWZpG3ws6hLbwJtYVsF
+#EXTINF:-1,GT | Canal 13 Opc.1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S5YKAPyjHLVXSzItYcl2W4
 
-#EXTINF:-1 xui-id="570653" tvg-id="" tvg-name="CLARO SPORTS 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-claro-sports-gt-1767.png" group-title="GUATEMALA",CLARO SPORTS 1
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpqEMyQHCw3S-Wu1WSO3L3k
+#EXTINF:-1,GT | Tigo Sports
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UYcigDnsMwdVXQEtqSC3sA
 
-#EXTINF:-1 xui-id="556283" tvg-id="" tvg-name="Claro Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-claro-sports-gt-1767.png" group-title="GUATEMALA",Claro Sports 2
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw9yBaifdg0WVGmBUg45QbxzF_vlvR0l3BAnfACJjSJli4
+#EXTINF:-1,Retro Tv
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XfZKA_ocmgHpPd3r3RfXS8
 
-#EXTINF:-1 xui-id="555857" tvg-id="" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA",GT | Tigo Sports
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw9wwcKfnSDxmm4r54x6GFTEXVFR5kh_4Z7Y_HV2RsnMsI
+#EXTINF:-1,VEA CANAL
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cNQ4s38MISmvq04ddxfmzk
 
 #*****************************CANALES DE NICARAGUA
 #*****************************
 
-#EXTINF:-1 xui-id="570880" tvg-id="" tvg-name="Canal 4" tvg-logo="http://icomplay.net:80/images/DLu6wPayhmXi4Shb7v3BIkZF3Bn1eAgGUPF6Nri8QojDd3sWVIoYU8baczlRvJdw.png" group-title="NICARAGUA",Canal 4
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpuvvmZPLfK9DsXdsvHXlL8
-
-#EXTINF:-1 xui-id="570886" tvg-id="" tvg-name="Canal 6" tvg-logo="https://i.ibb.co/mJM64Mj/6-1.png" group-title="NICARAGUA",Canal 6
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDon3gecExVHkICBndJ2Firh
-
-#EXTINF:-1 xui-id="570887" tvg-id="" tvg-name="Canal 8" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JK_bIpzqUgO3LT4m7jQIAXi5EixJGsuSla-JzIyxpiot.png" group-title="NICARAGUA",Canal 8
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDoGcK682u8jqxAPFfJIay31
-
-#EXTINF:-1 xui-id="570860" tvg-id="" tvg-name="Canal 10" tvg-logo="http://i.imgur.com/CaroJrQ.png" group-title="NICARAGUA",Canal 10
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDobaA-j0kC4u5WcI7LHEB2t
-
-#EXTINF:-1 xui-id="570863" tvg-id="" tvg-name="CANAL 12" tvg-logo="https://i.ibb.co/sWT5pCJ/12.png" group-title="NICARAGUA",CANAL 12
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqqf5NWnoDlhYeZZ1gsyw58
-
-#EXTINF:-1 xui-id="570868" tvg-id="" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/vmqxrPR/vvia-13.png" group-title="NICARAGUA",Canal 13
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqwqPquPvq4d2VDljaucyQE
-
-#EXTINF:-1 xui-id="570872" tvg-id="" tvg-name="Canal 14" tvg-logo="https://i.ibb.co/g97Bbq3/nic.png" group-title="NICARAGUA",Canal 14
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpnM4ERI8RJK0WpJ56k2haz
-
-#EXTINF:-1 xui-id="570877" tvg-id="" tvg-name="Canal 20" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JJdeZlvdUp730r_yu48ex241IN8WLR9ZYL2BoaCi-Roi.png" group-title="NICARAGUA",Canal 20
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDq_qn40pMfDsOhxB3OzZRab
-
 #*****************************CANALES DE COSTA RICA
 #*****************************
-
-
-
 
 #*****************************CANALES DE PANAMA
 #*****************************
 
-
-
-
-
-
-#*****************************CANALES DE CUBA
-#*****************************
-
-#EXTINF:-1 xui-id="570409" tvg-id="" tvg-name="TV MARTI" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JATiJplpbm3x-bwk5mz8beRdn4ux4Y1giOv3oYkonWvd.png" group-title="CUBA",TV MARTI
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDqNfFhXikJWPgeN9e3jrZYw
-
-#EXTINF:-1 xui-id="570404" tvg-id="" tvg-name="Prensa Latina TV" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb6HkksiE-s7Uvab9KVGRzJkATS9qDkS29Dc_Q752zu50.jpeg" group-title="CUBA",Prensa Latina TV
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDpYJK9uIzslDAH-LvhLGydY
-
-#EXTINF:-1 xui-id="570398" tvg-id="" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JFM6tAmuD4MUWeo9NFBLKP3OXH2Y6YQ_54TPqrp3G1P7.png" group-title="CUBA",CUBAVISION INTERNACIONAL
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDrCxvNDAWqRNR94ObTNWo_n
-
-#EXTINF:-1 xui-id="570397" tvg-id="" tvg-name="Cubavision Internacional" tvg-logo="https://i.ibb.co/YcLhVKq/cvi.png" group-title="CUBA",Cubavision Internacional
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDrkFmpDZ0LuyGQTLdYq389v
-
-#EXTINF:-1 xui-id="570391" tvg-id="" tvg-name="Cubamax" tvg-logo="https://i.ibb.co/1GZ9ZS8/cuba-max.png" group-title="CUBA",Cubamax
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDo4qo8BLQYuOABSzB_0_3Ir
-
-#EXTINF:-1 xui-id="570388" tvg-id="" tvg-name="ACN" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JLBhlRiwDruu-GcUbZJjipVG6AKC4jgonBhklUR6LRmv.png" group-title="CUBA",ACN
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDo7P3DF5bG4WpMkayysRnMX
-
-#EXTINF:-1 xui-id="570406" tvg-id="" tvg-name="Telerebelde" tvg-logo="https://i.ibb.co/gty2YXB/telerebelde.png" group-title="CUBA",Telerebelde
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDr00yD1KfW5znsu2qn7-oOd
-
-#EXTINF:-1 xui-id="570395" tvg-id="" tvg-name="CUBAVISION" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JEAVcGVA5G78lM6jOUJOymtkaCwFCvUYqbxUknWapkip.png" group-title="CUBA",CUBAVISION
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw97byuwR9mId-U9qVD7SfmDrPC_SfJNhBM5omIfTUEboU
-
 #*****************************CANALES DE UNIVISION
 #*****************************
 
-#EXTINF:-1 xui-id="300246" tvg-id="" tvg-name="UNIVISION HOUSTON" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/80/Univision45.png/revision/latest?cb=20201218194729" group-title="UNIVISION",UNIVISION HOUSTON
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw9z73IcaS34Lgi0boTPz0hH-dWbbA8dARFSmjuobgrcOU
+#EXTINF:-1,UNIVISION HOUSTON
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3V9oRjksQajL6-V1kObi6_s
 
-#EXTINF:-1 xui-id="290820" tvg-id="" tvg-name="LAT USA | UNIVISION DALLAS" tvg-logo="http://visualservice.xyz:80/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="UNIVISION",LAT USA | UNIVISION DALLAS
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw975Zh73e8_oKaURguW1J6BZwAvaSp7pNGAj6Kag-DnAj
+#EXTINF:-1,UNIVISION DALLAS
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3di6l05ckcfjQ3KunBcXHj8
 
-#EXTINF:-1 xui-id="548479" tvg-id="" tvg-name="UNI - UNIVISION LOS ANGELES" tvg-logo="http://visualservice.xyz:80/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="UNIVISION",UNI - UNIVISION LOS ANGELES
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw94WVF_nsb06h3TaVuB4xrMhcMXfiZNrFxoQxV7D8eL4W
+#EXTINF:-1,UNIVISION LOS ANGELES
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RABP1wtbCxZNkzcRNe6Ghc
 
-#EXTINF:-1 xui-id="291265" tvg-id="" tvg-name="USA | UNIVISION SAN FRANCISCO" tvg-logo="http://visualservice.xyz:80/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="UNIVISION",USA | UNIVISION SAN FRANCISCO
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw92VUxpobAK3naHTmk1sRZUKWxTkytiE4TbhqgoPdxmRJ
+#EXTINF:-1,UNIVISION MIAMI
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W1e1NHDf91cm3zvNa1H2lM
 
-#EXTINF:-1 xui-id="290824" tvg-id="" tvg-name="LAT USA | UNIVISION MIAMI" tvg-logo="http://visualservice.xyz:80/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="UNIVISION",LAT USA | UNIVISION MIAMI
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw975Zh73e8_oKaURguW1J6BbP57KxeGh-XSK50oDPxzR_
+#EXTINF:-1,UNIVISION WASHINGTON
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3e5N_3WHWWTBMS4-GMfYs7c
 
-#EXTINF:-1 xui-id="290832" tvg-id="" tvg-name="LAT USA | UNIVISION WASHINGTON" tvg-logo="http://visualservice.xyz:80/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="UNIVISION",LAT USA | UNIVISION WASHINGTON
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw975Zh73e8_oKaURguW1J6BZzb4Z5WgR2iWg4326a-jLk
+#EXTINF:-1,UNIVISION NEW YORK
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cnsGdILVT5sc0ph6lWWzcI
 
-#EXTINF:-1 xui-id="290825" tvg-id="" tvg-name="LAT USA | Univision New York" tvg-logo="http://visualservice.xyz:80/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="UNIVISION",LAT USA | Univision New York
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw975Zh73e8_oKaURguW1J6BZlmEs5hmsBckcLls1GFFqT
-
-#EXTINF:-1 xui-id="290826" tvg-id="" tvg-name="LAT USA | Univision Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_(2019).svg/5169px-Univision_tlnovelas_(2019).svg.png" group-title="UNIVISION",LAT USA | Univision Novelas
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw975Zh73e8_oKaURguW1J6Ba63L5grmrkCzPf7TousWT-
-
-#EXTINF:-1 xui-id="548486" tvg-id="" tvg-name="MX UNIVISION NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUosVlbnYJnLvdrLrokjyX_M4lnNphe7_SQ&s" group-title="NOTICIAS",MX UNIVISION NOTICIAS
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw94WVF_nsb06h3TaVuB4xrMiTrQSPpU460GoAFt5Wqn6c
+#EXTINF:-1,UNIVISION TELENOVELAS
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VjsG361pTnvQQEHglWu0yw
 
 #*****************************CANALES DE TELEMUNDO
 #*****************************
 
-#EXTINF:-1,TELEMUNDO GALVESTON HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhodHtcBJ1NfaKmpWOYx264
+#EXTINF:-1,TELEMUNDO GALVESTON
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bgBDy774vQ7NTfjWlVPxQE
 
 #EXTINF:-1,TELEMUNDO HOUSTON
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kkqe3LXQbJBJFBdpF01UNyE
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VpshqynJ7YD0wWlsiuJ17k
 
-#EXTINF:-1,TELEMUNDO SAN ANTONIO TX HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjGUIvJxtIlfdmacWCDYYP8
+#EXTINF:-1,TELEMUNDO SAN ANTONIO TX
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QUjVULyh8HL5CRCTj82u14
 
-#EXTINF:-1,TELEMUNDO 39 TX HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnDCTaLnWKgGVwtpTQAnFoc
+#EXTINF:-1,TELEMUNDO DALLAS
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dbdAPkN4mLo0DNlBzZvwi8
 
-#EXTINF:-1,TELEMUNDO LOS ANGELES.
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsB1BzSckYGpzXNUXU5I5F8
+#EXTINF:-1,TELEMUNDO LOS ANGELES
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W-WkxDMUKd8Z_7GTahYdNA
 
-#EXTINF:-1,TELEMUNDO SAN FRANCISCO HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KlM8wWWumq5GhkjMx_fZGWE
+#EXTINF:-1,TELEMUNDO MIAMI
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W51OjK7Dtt-mUvLK-78VaY
 
-#EXTINF:-1,TELEMUNDO WASHINGTON HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KlR9rYOzbWj6OxSF_vB7sZg
+#EXTINF:-1,TELEMUNDO WASHINGTON
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UqGlxXHq4C2Rq5IueKr7dY
 
 #EXTINF:-1,TELEMUNDO NEW YORK
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KktvLOzrZ9dNF1z6pVodRqk
-
-#EXTINF:-1,TELEMUNDO 47
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KmBspZXsaJag3OYOYFLDV8A
-
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqADoGKvQV2Wu0anQuI9wbg
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dr10Kg9cqUSQztCfLAES-M
 
 #*****************************CANALES DE GALAVISION
 #*****************************
 
+#EXTINF:-1,GALAVISION HOUSTON HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bCbxBtywV8o5WB5a4LBCi4
 
+#EXTINF:-1,USA | GALAVISION SAN ANTONIO
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Qtn74_dRzu4avpuCYaeA1w
 
+#EXTINF:-1,GALAVISION LOS ANGELES HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W4cUqnuzrnLXA-24KlPvYo
 
+#EXTINF:-1,USA | GALAVISION MIAMI
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QHtbOYO5gp7BtNgsomvtKY
 
+#EXTINF:-1,GALAVISION NEW YORK HD
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WtrgwQuOwhZzwMSWPHa3w0
 
 #*****************************CANALES DE UNIMAS
 #*****************************
 
-#EXTINF:-1 xui-id="548321" tvg-id="" tvg-name="UNIMAS NEW YORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVpqm7IPlgzo6uWGEcOIEFUX9w2TCHOy2sg&s" group-title="USA LATINO",UNIMAS NEW YORK
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw94WVF_nsb06h3TaVuB4xrMg64bCCIzl8OpYZ37stzpQS
+#EXTINF:-1,UNIMAS
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ebzie47peU6OtAnqT1w7H8
 
-#EXTINF:-1 xui-id="300242" tvg-id="" tvg-name="UNIMAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="USA LATINO",UNIMAS
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw9z73IcaS34Lgi0boTPz0hH_bd5iCzMiDsRdrWFknOFKl
+#EXTINF:-1,Unimas Miami
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3SFOBJWNyChr5bwMWwabRs4
 
-#EXTINF:-1 xui-id="290815" tvg-id="" tvg-name="LAT USA | UNIMAS" tvg-logo="https://i.pinimg.com/474x/f7/93/a8/f793a868ca56ec0aa15123a9cd813eb5.jpg" group-title="USA LATINO",LAT USA | UNIMAS
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw975Zh73e8_oKaURguW1J6Bb_8AdmXa6BLCQDY31Wfp0y
+#EXTINF:-1,Unimas Los Angeles
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VwCA1TM3ZUowikjItKt51g
 
-#EXTINF:-1 xui-id="300239" tvg-id="" tvg-name="Unimas Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="USA LATINO",Unimas Los Angeles
-http://red4tv.lat:80/play/t_PcwxkWq9JU_3uYyJVw9z73IcaS34Lgi0boTPz0hH9p8OHKPmMu8QygRsdWsZ_f
+#EXTINF:-1,UNIMAS NEW YORK
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3d6t8T_-qk9cbbhoE12-6lQ
+
+#*****************************CANALES DE VIX
+#*****************************
+
+#EXTINF:-1,VIX Premium | 40 Y 20
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Ue2EKoOAErVTELitk5YtmU
+
+#EXTINF:-1,VIX Premium | Amor Real
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S7FIJ_04m-zC4MsSHkE9sU
+
+#EXTINF:-1,VIX Premium | Canal 5
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QnvEwV6hdUcyFbxJgRWegs
+
+#EXTINF:-1,VIX Premium | La Fea Mas Bella
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XDybxVQ0HKEEduwegIwfqA
+
+#EXTINF:-1,VIX Premium | La Que No Podia Amar
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3aAaayqZAvtnJTS-DQBOPfg
+
+#EXTINF:-1,VIX Premium | La Rosa de Guadalupe
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ayETc6GL2cyRVCyYIzDVaM
+
+#EXTINF:-1,VIX Premium | Lo que la vida me robo
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QvRVCSK5mgN1lyIsFoxxoQ
+
+#EXTINF:-1,VIX Premium | Mi Corazon es Tuyo
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fb9Rz4H_gDADcajVXaunj4
+
+#EXTINF:-1,VIX Premium | Rebelde
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XAZq0H-figd1pO-F3Ct5Dc
+
+#EXTINF:-1,VIX Premium | Teresa
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3d8OjW4vT4FjuU0NTsGjHVs
+
+#EXTINF:-1,VIX | CINE RETRO
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XySdHV-PZPRY0CoX5heTqg
+
+#EXTINF:-1,ZONA TUDN VIX
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TMB9cqSuPMyRR_-rmFz9-E
 
 #*****************************CANALES DE HBO
 #*****************************
 
+#EXTINF:-1,MX | HBO SIGNATURE Opc.2
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bB9mk_GQlgqQUyNyxnF7PI
 
+#EXTINF:-1,HBO MUNDI | MX
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VuzJC19Pyd69esG8byl8fQ
 
+#EXTINF:-1,HBO XTREME
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dqRE5wIkL1POcVY5swu2dc
+
+#EXTINF:-1,HBO PLUS | MX
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cX3mJzOj6DtOyR29Dcc58o
+
+#EXTINF:-1,HBO FAMILY | MX
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UGDsKyiHNjK9t4hI9c3Uws
 
 #*****************************CANALES DE STARZ
 #*****************************
 
+#EXTINF:-1,STARZ ENCORE CLASSIC OPT 2
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Vg7xzwanAvdwjMA08PnCB0
+
+#EXTINF:-1,STARZ ENCORE ACTION OPT 2
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fjHq_EqS0eYZLEP2kdN4qE
+
+#EXTINF:-1,STARZ EAST OPT 1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YbVP4dC4l6IMLJSh91qTsk
+
+#EXTINF:-1,STARZ KIDS & FAMILY OPT 1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bF4CTtAFrrxYsZz72wMkQw
+
+#*****************************CANALES DE DISCOVERY
+#*****************************
+
+#EXTINF:-1,Discovery TLC 1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cj1dBjyV5fKi78DLRECuH8
+
+#EXTINF:-1,Discovery Turbo
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VaNTZR4S9fPYAFJBMujUgQ
+
+#EXTINF:-1,DISCOVERY SCIENCE
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Zt2I1v7YYSrqq9CznGbtGQ
+
+#EXTINF:-1,Discovery Home & Health
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3aCHf4KMH-cGbOBoz5Di4-8
+
+#EXTINF:-1,Discovery Familia
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3T5-esuN8uHVlfqag-6ocmw
+
+#EXTINF:-1,Discovery Channel
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZBW2NqPq7u31W9-1BV_mgQ
+
 #*****************************CANALES DE SHOWTIME
 #*****************************
 
-#*****************************CANALES DE MEXICO
+#EXTINF:-1,Showtime Latino
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3b_Erk6tTdyNJ0fMpN6QPVM
+
+#EXTINF:-1,SHOWTIME EXTREME OPT 2
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VpFvG_3mvPUyaibu-AZ5zk
+
+#*****************************CANALES DE TNT
 #*****************************
+
+#EXTINF:-1,TNT Series
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Thw1r2pwL20vvtc6mvlck8
+
+#EXTINF:-1,TNT SERIES Opcion 1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W-Uy9pdjsGgUbbxKManzck
+
+#EXTINF:-1,TNT SERIES Opcion 2
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Y9kWRxMEaK56s6O-zCFgcU
+
+#EXTINF:-1,TNT NOVELAS Opcion 2 | MX
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bS_ANaWMZSQ_ylwAokiWuM
+
+#EXTINF:-1,TNT NOVELAS Opcion 1 | MX
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cvAkXBw1UZBcKYKhAtBp1U
+
+#*****************************CANALES DE SONY
+#*****************************
+
+#EXTINF:-1,SONY
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3f_ki03zF_EYRikMDFQK-BA
+
+#EXTINF:-1,SONY COMPETENCIAS
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3biXF8BG79xvWiGPGgFtD2o
+
+#EXTINF:-1,SONY MOVIES Opcion 1
+http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UibS6vhBCLokblr-2mhGJo
+
+#*****************************CANALES DE MEXICO 1
+#*****************************
+
+
+
+#*****************************CANALES DE MEXICO 2
+#*****************************
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="",TV MÁS(360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="MEXICO", Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO", Multimedios Torreon www.achoAPPS.com
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",ONCE
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",MULTIMEDIOS GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="MEXICO",Expresa TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoboTV.mx" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="MEXICO",Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="MEXICO",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="ENTRETENIMIENTO",MyTime Movie Network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+#EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="MEXICO",TV Lobo
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="MEXICO",TV Mar La Paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="MEXICO",TV Mar Puerto Vallarta
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/chunklist_w1647663714.m3u8
+
+#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://i.imgur.com/iuaYGK2.png" group-title="MEXICO",TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://i.imgur.com/b6rNKeU.png" group-title="MEXICO",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MEXICO",TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="MEXICO",Ultra TV Puebla
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-logo="https://i.imgur.com/0W8kHxt.png" group-title="MEXICO",VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="MEXICO",XEWH-TDT
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="MEXICO",XHGV-TDT
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="MEXICO",XHTTG-TDT
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UMTV.mx" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="MEXICO",UMTV
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="MEXICO",Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+
+#EXTINF:-1 tvg-id="AlcanceTV.mx" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="RELIGION",Alcance TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#*****************************CANALES DE ARGENTINA 1
+#*****************************
+
+#*****************************CANALES DE ARGENTINA 2
+#*****************************
+
+#EXTINF:-1, tvg-id="5tv.ar",5TV Corrientes (480p) [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1, tvg-id="13MaxTelevision.ar",13Max Televisión (720p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="A24.ar" user-agent="iPhone",A24 (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1, tvg-id="AiredeSantaFe.ar",Aire de Santa Fe (1080p)
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AlternaTV.ar",AlternaTV (720p)
+https://alternatv.ar/stream/hls/live.m3u8
+
+#EXTINF:-1, tvg-id="AmericaTV.ar" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1, tvg-id="ArgentinisimaSatelital.ar",Argentinísima Satelital (540p)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1, tvg-id="ATVArgentina.ar",ATV Argentina (540p)
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AVCHD.ar",AVC HD (720p)
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AzaharesRadiovisualMultimedia.ar",Azahares Radio Multimedia (720p)
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="BayresTV.ar",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1, tvg-id="BeatsRadio.ar",Beats Radio (480p)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1, tvg-id="CableImagenArmstrong.ar",Cable Imagen Armstrong (540p) [Not 24/7]
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Cadena103TV.ar",Cadena 103 (720p) [Not 24/7]
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal2deUshuaia.ar",Canal 2 de Ushuaia (1080p)
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+
+#EXTINF:-1, tvg-id="Canal2Misiones.ar",Canal 2 Misiones (1080p)
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1, tvg-id="Canal3LaPampa.ar",Canal 3 La Pampa (1080p)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal3LasHeras.ar",Canal 3 Las Heras (720p)
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal4Eldorado.ar",Canal 4 Eldorado (720p)
+https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal4Esquel.ar",Canal 4 Esquel (540p)
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal4Posadas.ar",Canal 4 Posadas (576p)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal4SanJuan.ar",Canal 4 San Juan (576p)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal5PicoTruncado.ar",Canal 5 Pico Truncado (540p)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal5SantaFe.ar",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal6Posadas.ar",Canal 6 Posadas (1080p)
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal7Jujuy.ar",Canal 7 Jujuy (720p)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal7Neuquen.ar",Canal 7 Neuquén (1080p)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal7Salta.ar",Canal 7 Salta (1080p)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1, tvg-id="Canal7TV.ar",Canal 7 Santiago del Estero (720p)
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal9Litoral.ar",Canal 9 Litoral (720p)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal10deJunin.ar" user-agent="iPhone",Canal 10 de Junín (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=iPhone
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal12Web.ar",Canal 12 Puerto Madryn (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal13LaRioja.ar",Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal21TV.ar",Canal 21 TV (1080p)
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal22.ar",Canal 22 (720p)
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal34SanJuan.ar",Canal 34 San Juan (720p)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canal40Caucete.ar",Canal 40 Caucete (720p)
+https://canalsj.kozow.com/canal40/index.m3u8
+
+#EXTINF:-1, tvg-id="CanalE.ar",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CanalLuz.ar" user-agent="iPhone",Canal Luz (1080p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+
+#EXTINF:-1, tvg-id="CanalProvincial.ar",Canal Provincial (360p)
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1, tvg-id="CanalSantaMaria.ar",Canal Santa María (360p)
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+
+#EXTINF:-1, tvg-id="CanalU.ar",Canal U (720p)
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CatamarcaTV.ar",Catamarca TV (720p)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+
+#EXTINF:-1, tvg-id="CeltaTV.ar",Celta TV (240p)
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+
+#EXTINF:-1, tvg-id="ChacoTV.ar",Chaco TV (720p) [Not 24/7]
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ChilecitoTV.ar",Chilecito TV (480p)
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
+#EXTINF:-1, tvg-id="CincoTV.ar",Cinco TV (480p)
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1, tvg-id="CiudadMagazine.ar",Ciudad Magazine (1080p) [Geo-blocked]
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1, tvg-id="Canal3Pinamar.ar",CN3 Pinamar (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CosmosTV.ar",Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1, tvg-id="CPEtv.ar",CPEtv (720p)
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel Latin America (480p)
+http://168.181.122.234:8000/play/a038/index.m3u8
+
+#EXTINF:-1, tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Latin America (480p)
+http://168.181.122.234:8000/play/a037/index.m3u8
+
+#EXTINF:-1, tvg-id="EcoTV.ar",Eco TV (720p)
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ElTrece.ar",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1, tvg-id="GarageTVLatinAmerica.ar",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1, tvg-id="GlobalTV.ar",Global TV (1080p)
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+
+#EXTINF:-1, tvg-id="LapachoTVCanal11.ar",Lapacho TV Canal 11 (720p)
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+
+#EXTINF:-1, tvg-id="LitusTV.ar",Litus TV (720p)
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MagicKids.ar",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1, tvg-id="MalbecPlay.ar",Malbec Play (1080p)
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MasFM.ar",Más FM 95.9 (720p)
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1, tvg-id="MilennioTV.ar",Milennio TV (720p)
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+
+#EXTINF:-1, tvg-id="MisionesCuatro.ar",Misiones Cuatro (480p)
+https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NeoTV.ar",Neo TV (432p)
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1, tvg-id="NeoxTV.ar",Neox TV (480p)
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:-1, tvg-id="NETTV.ar",NET TV (720p)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="PancTV.ar",Panc TV (720p) [Not 24/7]
+https://panel.host-live.com:19360/81500/81500.m3u8
+
+#EXTINF:-1, tvg-id="PlayTelevision.ar",Play Television (720p)
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+#EXTINF:-1, tvg-id="PowerMaxRadioTV.ar",Power Max Radio TV (720p)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1, tvg-id="PowerHD.ar",PowerHD (720p)
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
+#EXTINF:-1, tvg-id="QuatroTV.ar",Quatro TV (540p)
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+
+#EXTINF:-1, tvg-id="RadioRealpolitik.ar",Radio Realpolitik (720p)
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+
+#EXTINF:-1, tvg-id="RadioSublimeGraciaTV.ar",Radio Sublime Gracia TV (720p)
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+
+#EXTINF:-1, tvg-id="RadioTVNeuquen.ar",Radio TV Neuquén (720p) [Not 24/7]
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+
+#EXTINF:-1, tvg-id="RadioYguazuTV.ar",Radio Yguazú TV (480p)
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+
+#EXTINF:-1, tvg-id="Radiocanal.ar",Radiocanal San Francisco (1080p)
+http://204.199.3.2/.m3u8
+
+#EXTINF:-1, tvg-id="RTN.ar",RTN (Neuquén) (720p) [Not 24/7]
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+
+#EXTINF:-1, tvg-id="SanPedroTV.ar",San Pedro TV (1080p) [Not 24/7]
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="SantaFeCanal.ar",Santa Fe Canal (720p)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1, tvg-id="SicardiTV.ar",Sicardi TV (720p)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1, tvg-id="SomosLaPampa.ar",Somos La Pampa (1080p)
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Telecinco.ar",TeleCinco Trelew (240p)
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1, tvg-id="Telediez.ar",Telediez (360p) [Not 24/7]
+https://videohd.live:19360/8020/8020.m3u8
+
+#EXTINF:-1, tvg-id="TeleJunin.ar",TeleJunín (576p)
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
+#EXTINF:-1, tvg-id="Telenord.ar",Telenord (720p) [Not 24/7]
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Telenord.ar",Telenord Corrientes (1080p) [Not 24/7]
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TelpinTVCanal2HD.ar",Telpin Canal 2 (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TelpinTVCanal2HD.ar",Telpin TV (1080p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVManaArgentina.ar",TV Maná Argentina (576p) [Not 24/7]
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSolidaria.ar",TV Solidaria (576p)
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversidad.ar",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-id="UNAMTransmedia.ar",UNAM Transmedia (1080p)
+http://192.100.186.53:8090/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-id="Uniteve.ar",Uniteve (720p) [Not 24/7]
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-1 tvg-id="VTV.ar",VerTV (VTV) (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnimal.ar",Xtrema Animal
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar",Xtrema Cine Clasico
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaTerror.ar",Xtrema Terror
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #*****************************CANALES DE DISTRO TV
 #*****************************
 
 #EXTINF:1, NEGOCIOS TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8?ads.dpname=distrotv&ads.rnd=fbvb&ads.env_i=5a9b8b16-60de-41f5-a29d-71937da9cb2d&ads.env_u=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1140&ads.height=641&ads.deviceId=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=3758d9cb-ee95-4073-9393-fc8541bb6e7c&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=45.167.3.81&ads.geo=SV&ads.lat=13.68060&ads.long=-89.18030&ads.dma=false&ads.geoType=2&ads.contentid=23130&ads.content_duration=18000&ads.episode_id=114364&ads.show_id=4557&ads.showCategories=IAB13&ads.episodeCategories=IAB13&ads.genre=Finance%2CFactual%2CTalk%20Show%2CNews%2CSpanish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=Negocios%20TV&ads.episodetitle=Negocios%20TV&ads.keywords=Trading%2Ccrypto%2Cinvestment%2Cespanol&ads.contenturl=https%3A%2F%2Fdistro.tv%2Flive%2Fnegocios-tv%2F&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241028
-
-#*****************************CANALES DE ARGENTINA
-#*****************************
-
-#EXTINF:-1, tvg-id="5tv.ar",5TV Corrientes (480p) [Not 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1, tvg-id="13MaxTelevision.ar",13Max Televisión (720p)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-#EXTINF:-1, tvg-id="A24.ar" user-agent="iPhone",A24 (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1, tvg-id="AiredeSantaFe.ar",Aire de Santa Fe (1080p)
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="AlternaTV.ar",AlternaTV (720p)
-https://alternatv.ar/stream/hls/live.m3u8
-#EXTINF:-1, tvg-id="AmericaTV.ar" user-agent="iPhone",América TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1, tvg-id="ArgentinisimaSatelital.ar",Argentinísima Satelital (540p)
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1, tvg-id="ATVArgentina.ar",ATV Argentina (540p)
-https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
-#EXTINF:-1, tvg-id="AVCHD.ar",AVC HD (720p)
-https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
-#EXTINF:-1, tvg-id="AzaharesRadiovisualMultimedia.ar",Azahares Radio Multimedia (720p)
-https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1, tvg-id="BayresTV.ar",Bayres TV (720p)
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1, tvg-id="BeatsRadio.ar",Beats Radio (480p)
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1, tvg-id="CableImagenArmstrong.ar",Cable Imagen Armstrong (540p) [Not 24/7]
-https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-#EXTINF:-1, tvg-id="Cadena103TV.ar",Cadena 103 (720p) [Not 24/7]
-http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal2deUshuaia.ar",Canal 2 de Ushuaia (1080p)
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1, tvg-id="Canal2Misiones.ar",Canal 2 Misiones (1080p)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1, tvg-id="Canal3LaPampa.ar",Canal 3 La Pampa (1080p)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal3LasHeras.ar",Canal 3 Las Heras (720p)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal4Eldorado.ar",Canal 4 Eldorado (720p)
-https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal4Esquel.ar",Canal 4 Esquel (540p)
-https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal4Posadas.ar",Canal 4 Posadas (576p)
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal4SanJuan.ar",Canal 4 San Juan (576p)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal5PicoTruncado.ar",Canal 5 Pico Truncado (540p)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal5SantaFe.ar",Canal 5 Santa Fe (240p)
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal6Posadas.ar",Canal 6 Posadas (1080p)
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal7Jujuy.ar",Canal 7 Jujuy (720p)
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal7Neuquen.ar",Canal 7 Neuquén (1080p)
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal7Salta.ar",Canal 7 Salta (1080p)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1, tvg-id="Canal7TV.ar",Canal 7 Santiago del Estero (720p)
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal9Litoral.ar",Canal 9 Litoral (720p)
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal10deJunin.ar" user-agent="iPhone",Canal 10 de Junín (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=iPhone
-https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
-#EXTINF:-1, tvg-id="Canal12Web.ar",Canal 12 Puerto Madryn (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal13LaRioja.ar",Canal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal21TV.ar",Canal 21 TV (1080p)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal22.ar",Canal 22 (720p)
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal34SanJuan.ar",Canal 34 San Juan (720p)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1, tvg-id="Canal40Caucete.ar",Canal 40 Caucete (720p)
-https://canalsj.kozow.com/canal40/index.m3u8
-#EXTINF:-1, tvg-id="CanalE.ar",Canal E (720p)
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="CanalLuz.ar" user-agent="iPhone",Canal Luz (1080p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-#EXTINF:-1, tvg-id="CanalProvincial.ar",Canal Provincial (360p)
-https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1, tvg-id="CanalSantaMaria.ar",Canal Santa María (360p)
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1, tvg-id="CanalU.ar",Canal U (720p)
-https://stream.arcast.live/canalu/canalu/playlist.m3u8
-#EXTINF:-1, tvg-id="CatamarcaTV.ar",Catamarca TV (720p)
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1, tvg-id="CeltaTV.ar",Celta TV (240p)
-https://vivo.solumedia.com:19360/celta/celta.m3u8
-#EXTINF:-1, tvg-id="ChacoTV.ar",Chaco TV (720p) [Not 24/7]
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1, tvg-id="ChilecitoTV.ar",Chilecito TV (480p)
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1, tvg-id="CincoTV.ar",Cinco TV (480p)
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1, tvg-id="CiudadMagazine.ar",Ciudad Magazine (1080p) [Geo-blocked]
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1, tvg-id="Canal3Pinamar.ar",CN3 Pinamar (720p) [Not 24/7]
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="CosmosTV.ar",Cosmos TV (720p)
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1, tvg-id="CPEtv.ar",CPEtv (720p)
-https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1, tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel Latin America (480p)
-http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1, tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Latin America (480p)
-http://168.181.122.234:8000/play/a037/index.m3u8
-#EXTINF:-1, tvg-id="EcoTV.ar",Eco TV (720p)
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-#EXTINF:-1, tvg-id="ElTrece.ar",El Trece (1080p)
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1, tvg-id="GarageTVLatinAmerica.ar",Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1, tvg-id="GlobalTV.ar",Global TV (1080p)
-https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1, tvg-id="LapachoTVCanal11.ar",Lapacho TV Canal 11 (720p)
-https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
-#EXTINF:-1, tvg-id="LitusTV.ar",Litus TV (720p)
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1, tvg-id="MagicKids.ar",Magic Kids (486p)
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1, tvg-id="MalbecPlay.ar",Malbec Play (1080p)
-https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
-#EXTINF:-1, tvg-id="MasFM.ar",Más FM 95.9 (720p)
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1, tvg-id="MilennioTV.ar",Milennio TV (720p)
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
-#EXTINF:-1, tvg-id="MisionesCuatro.ar",Misiones Cuatro (480p)
-https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
-#EXTINF:-1, tvg-id="NeoTV.ar",Neo TV (432p)
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1, tvg-id="NeoxTV.ar",Neox TV (480p)
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1, tvg-id="NETTV.ar",NET TV (720p)
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="PancTV.ar",Panc TV (720p) [Not 24/7]
-https://panel.host-live.com:19360/81500/81500.m3u8
-#EXTINF:-1, tvg-id="PlayTelevision.ar",Play Television (720p)
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1, tvg-id="PowerMaxRadioTV.ar",Power Max Radio TV (720p)
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1, tvg-id="PowerHD.ar",PowerHD (720p)
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1, tvg-id="QuatroTV.ar",Quatro TV (540p)
-https://stream.arcast.live/quatro/quatro/playlist.m3u8
-#EXTINF:-1, tvg-id="RadioRealpolitik.ar",Radio Realpolitik (720p)
-https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-#EXTINF:-1, tvg-id="RadioSublimeGraciaTV.ar",Radio Sublime Gracia TV (720p)
-https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
-#EXTINF:-1, tvg-id="RadioTVNeuquen.ar",Radio TV Neuquén (720p) [Not 24/7]
-https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1, tvg-id="RadioYguazuTV.ar",Radio Yguazú TV (480p)
-https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-#EXTINF:-1, tvg-id="Radiocanal.ar",Radiocanal San Francisco (1080p)
-http://204.199.3.2/.m3u8
-#EXTINF:-1, tvg-id="RTN.ar",RTN (Neuquén) (720p) [Not 24/7]
-https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1, tvg-id="SanPedroTV.ar",San Pedro TV (1080p) [Not 24/7]
-https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-#EXTINF:-1, tvg-id="SantaFeCanal.ar",Santa Fe Canal (720p)
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1, tvg-id="SicardiTV.ar",Sicardi TV (720p)
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1, tvg-id="SomosLaPampa.ar",Somos La Pampa (1080p)
-https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
-#EXTINF:-1, tvg-id="Telecinco.ar",TeleCinco Trelew (240p)
-https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1, tvg-id="Telediez.ar",Telediez (360p) [Not 24/7]
-https://videohd.live:19360/8020/8020.m3u8
-#EXTINF:-1, tvg-id="TeleJunin.ar",TeleJunín (576p)
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-#EXTINF:-1, tvg-id="Telenord.ar",Telenord (720p) [Not 24/7]
-https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1, tvg-id="Telenord.ar",Telenord Corrientes (1080p) [Not 24/7]
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1, tvg-id="TelpinTVCanal2HD.ar",Telpin Canal 2 (720p) [Not 24/7]
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="TelpinTVCanal2HD.ar",Telpin TV (1080p) [Not 24/7]
-https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaArgentina.ar",TV Maná Argentina (576p) [Not 24/7]
-https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSolidaria.ar",TV Solidaria (576p)
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="TVUniversidad.ar",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="UNAMTransmedia.ar",UNAM Transmedia (1080p)
-http://192.100.186.53:8090/hls/live.stream.m3u8
-#EXTINF:-1 tvg-id="Uniteve.ar",Uniteve (720p) [Not 24/7]
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 tvg-id="VTV.ar",VerTV (VTV) (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Accion
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar",Xtrema Animal
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCineClasico.ar",Xtrema Cine Clasico
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar",Xtrema Terror
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar",Canal 9 Resistencia (720p)
-http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #*****************************CANALES
 #*****************************
@@ -814,4 +1085,3 @@ https://serversv.com:8080/hls/tvgetsemani.m3u8
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1, tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="Religious",TVCa Televisión Católica Arquidiocesana (720p)
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
-
